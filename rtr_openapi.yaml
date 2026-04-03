@@ -1,0 +1,122 @@
+openapi: 3.0.0
+info:
+  title: Monihan Realty Property API
+  description: Returns rental property availability, rates, and details for Monihan Realty Inc. in Ocean City, NJ. All rentals are Saturday to Saturday, minimum one week.
+  version: 1.0.0
+
+servers:
+  - url: http://rentals.monihan.com:8081/backoffice
+
+security:
+  - ApiKeyAuth: []
+
+paths:
+  /rtr_api.php:
+    get:
+      operationId: searchProperties
+      summary: Search rental properties by address, availability date, bedrooms, or sleeps capacity
+      description: >
+        Use this to answer questions about rental property availability, weekly rates,
+        amenities, and details. All rentals run Saturday to Saturday for a minimum of
+        one week. When a visitor asks about a specific property, pass the street address
+        or property name as the street parameter. When asking about availability for a
+        specific week, pass the Saturday check-in date in YYYY-MM-DD format.
+      parameters:
+        - name: street
+          in: query
+          required: false
+          schema:
+            type: string
+          description: >
+            Street address or property name to search for. Examples: "3228 Wesley",
+            "Haven Avenue", "1441 Ocean". Performs a partial match so partial addresses work.
+        - name: date
+          in: query
+          required: false
+          schema:
+            type: string
+            format: date
+          description: >
+            Saturday check-in date to check availability for, in YYYY-MM-DD format.
+            All check-ins are on Saturdays. Convert natural language dates like
+            "July 4th" or "week of July 4" to the nearest Saturday in YYYY-MM-DD format.
+        - name: bedrooms
+          in: query
+          required: false
+          schema:
+            type: integer
+            minimum: 1
+          description: >
+            Minimum number of bedrooms required. Use when visitor asks for properties
+            with at least X bedrooms.
+        - name: sleeps
+          in: query
+          required: false
+          schema:
+            type: integer
+            minimum: 1
+          description: >
+            Minimum number of guests the property must sleep. Use when visitor asks
+            for properties that sleep X people or accommodate X guests.
+      responses:
+        '200':
+          description: Matching properties with availability and rates
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  total:
+                    type: integer
+                    description: Number of matching properties found
+                  properties:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        name:
+                          type: string
+                          description: Full property name including address and floor
+                        street:
+                          type: string
+                        type:
+                          type: string
+                          description: Property type (Duplex, Condo, House, etc.)
+                        floor:
+                          type: string
+                        bedrooms:
+                          type: string
+                        baths:
+                          type: string
+                        sleeps:
+                          type: string
+                        bed_info:
+                          type: string
+                          description: Room by room bed layout
+                        amenities:
+                          type: string
+                          description: Comma separated list of amenities
+                        thumbnail:
+                          type: string
+                          description: URL to property photo
+                        availability:
+                          description: Available weeks or message if not available
+                        rates:
+                          description: Weekly rental rates for matching dates
+                        next_available:
+                          type: array
+                          description: Next 3 available Saturday to Saturday windows when no date specified
+                        fees:
+                          type: array
+                          description: Additional fees (processing fee, insurance)
+        '403':
+          description: Unauthorized - invalid or missing API key
+        '500':
+          description: Property data unavailable
+
+components:
+  securitySchemes:
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: X-API-Key
