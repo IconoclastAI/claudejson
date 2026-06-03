@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T07:00:06.079967+00:00",
+  "generated": "2026-06-03T07:00:05.786535+00:00",
   "total": 1141,
   "properties": [
     {
@@ -3702,7 +3702,7 @@
         },
         {
           "checkin": "2026-07-18",
-          "checkout": "2026-07-25",
+          "checkout": "2026-08-01",
           "status": "Available",
           "avg_rate": 5200.0
         },
@@ -14927,6 +14927,12 @@
         },
         {
           "checkin": "2026-10-17",
+          "checkout": "2026-10-24",
+          "status": "Available",
+          "avg_rate": 2400.0
+        },
+        {
+          "checkin": "2026-10-31",
           "checkout": "2026-11-21",
           "status": "Available",
           "avg_rate": 2400.0
@@ -18527,12 +18533,6 @@
           "avg_rate": 2840.0
         },
         {
-          "checkin": "2026-07-18",
-          "checkout": "2026-07-25",
-          "status": "Available",
-          "avg_rate": 3000.0
-        },
-        {
           "checkin": "2026-08-15",
           "checkout": "2026-11-07",
           "status": "Available",
@@ -20804,10 +20804,10 @@
           "avg_rate": 1700.0
         },
         {
-          "checkin": "2026-08-15",
+          "checkin": "2026-08-22",
           "checkout": "2026-10-17",
           "status": "Available",
-          "avg_rate": 1411.11
+          "avg_rate": 1400.0
         }
       ],
       "rates": [
@@ -25929,14 +25929,14 @@
         }
       ],
       "amenities": [
+        "2 Queen Bed(s)",
+        "4 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "3 TVs",
         "Cable TV",
-        "1  Sofa Bed(s)-Queen",
-        "4 Single Bed(s)",
-        "2 Queen Bed(s)",
         "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
@@ -31413,11 +31413,6 @@
         }
       ],
       "rates": [
-        {
-          "checkin": "2026-05-03",
-          "checkout": "2026-06-03",
-          "rate": 43.54
-        },
         {
           "checkin": "2026-06-03",
           "checkout": "2026-07-03",
@@ -42408,7 +42403,7 @@
           "avg_rate": 7895.0
         },
         {
-          "checkin": "2026-08-08",
+          "checkin": "2026-08-15",
           "checkout": "2026-08-22",
           "status": "Available",
           "avg_rate": 8550.0
@@ -43662,7 +43657,7 @@
           "rate": 114.28
         },
         {
-          "checkin": "2026-06-02",
+          "checkin": "2026-06-03",
           "checkout": "2026-06-13",
           "rate": 325.0
         }
@@ -44124,6 +44119,9 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "1 Queen Bed(s)",
+        "2 Single Bed(s)",
+        "3 Futon(s)",
         "Parking",
         "2 Parking Spaces",
         "Television",
@@ -44134,13 +44132,10 @@
         "Wireless Lan",
         "TV Streaming Device",
         "Cable TV (Expanded)",
-        "1 Queen Bed(s)",
-        "2 Single Bed(s)",
-        "3 Futon(s)",
         "Beach Chairs",
-        "1 # Beach Chairs",
         "Beach Umbrella",
-        "Smart TV"
+        "Smart TV",
+        "1 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165079.0.jpg"
     },
@@ -46488,13 +46483,14 @@
         }
       ],
       "amenities": [
-        "2 King Bed(s)",
-        "4 Queen Bed(s)",
-        "1 Double Bed(s)",
-        "4 Single Bed(s)",
-        "1 Sofa Bed(s)-Single",
-        "2  Sofa Bed(s)-Queen",
-        "1 Trundle(s)",
+        "TV Streaming Device",
+        "10 # of Beach Badges",
+        "Beach Chairs",
+        "Beach Umbrella",
+        "1 Pyramid Bed(s)-Full",
+        "Beach Equipment",
+        "Beach Badges",
+        "Wireless Lan",
         "1 Futon(s)",
         "1 Car Garage",
         "3 Parking Spaces",
@@ -46503,14 +46499,13 @@
         "No Pets Accepted",
         "High Speed Internet",
         "Loft",
-        "Beach Equipment",
-        "Beach Badges",
-        "Wireless Lan",
-        "TV Streaming Device",
-        "10 # of Beach Badges",
-        "Beach Chairs",
-        "Beach Umbrella",
-        "1 Pyramid Bed(s)-Full"
+        "2 King Bed(s)",
+        "4 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "4 Single Bed(s)",
+        "1 Sofa Bed(s)-Single",
+        "2  Sofa Bed(s)-Queen",
+        "1 Trundle(s)"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167080.0.jpg"
     },
@@ -49829,7 +49824,7 @@
           "checkin": "2026-06-27",
           "checkout": "2026-07-04",
           "status": "Available",
-          "avg_rate": 3700.0
+          "avg_rate": 3250.0
         },
         {
           "checkin": "2026-08-29",
@@ -49868,7 +49863,7 @@
         {
           "checkin": "2026-06-27",
           "checkout": "2026-07-04",
-          "rate": 528.57
+          "rate": 464.28
         },
         {
           "checkin": "2026-07-04",
@@ -49947,20 +49942,20 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "1 Queen Bed(s)",
+        "2 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "1 Futon(s)",
         "Garage",
         "Parking",
         "3 Parking Spaces",
-        "Television",
-        "4 TVs",
-        "Cable TV",
-        "1 Futon(s)",
-        "1  Sofa Bed(s)-Queen",
-        "2 Single Bed(s)",
-        "2 Queen Bed(s)",
         "No Pets Accepted",
         "Beach Equipment",
         "Beach Badges",
-        "Wireless Lan"
+        "Wireless Lan",
+        "Smart TV",
+        "4# of Smart TVs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1169/1169095.0.jpg"
     },
@@ -52254,9 +52249,9 @@
       "availability": [
         {
           "checkin": "2026-06-27",
-          "checkout": "2026-07-04",
+          "checkout": "2026-07-11",
           "status": "Available",
-          "avg_rate": 3200.0
+          "avg_rate": 3350.0
         },
         {
           "checkin": "2026-08-15",
@@ -60028,7 +60023,7 @@
           "rate": 114.28
         },
         {
-          "checkin": "2026-06-02",
+          "checkin": "2026-06-03",
           "checkout": "2026-06-13",
           "rate": 375.0
         }
@@ -62787,7 +62782,7 @@
       ],
       "rates": [
         {
-          "checkin": "2026-06-02",
+          "checkin": "2026-06-03",
           "checkout": "2026-06-06",
           "rate": 300.0
         },
@@ -62947,7 +62942,7 @@
           "rate": 157.14
         },
         {
-          "checkin": "2026-06-02",
+          "checkin": "2026-06-03",
           "checkout": "2026-06-13",
           "rate": 375.0
         }
@@ -63508,7 +63503,7 @@
       ],
       "rates": [
         {
-          "checkin": "2026-06-02",
+          "checkin": "2026-06-03",
           "checkout": "2026-06-06",
           "rate": 2425.0
         },
@@ -65731,9 +65726,21 @@
         },
         {
           "checkin": "2026-09-26",
-          "checkout": "2027-01-02",
+          "checkout": "2027-03-20",
           "status": "Available",
-          "avg_rate": 3114.28
+          "avg_rate": 2932.0
+        },
+        {
+          "checkin": "2027-04-03",
+          "checkout": "2027-04-17",
+          "status": "Available",
+          "avg_rate": 2700.0
+        },
+        {
+          "checkin": "2027-05-01",
+          "checkout": "2028-01-01",
+          "status": "Available",
+          "avg_rate": 5191.42
         }
       ],
       "rates": [
@@ -65891,6 +65898,246 @@
           "checkin": "2026-12-26",
           "checkout": "2027-01-02",
           "rate": 500.0
+        },
+        {
+          "checkin": "2027-01-02",
+          "checkout": "2027-01-09",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-01-09",
+          "checkout": "2027-01-16",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-01-16",
+          "checkout": "2027-01-23",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-01-23",
+          "checkout": "2027-01-30",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-01-30",
+          "checkout": "2027-02-06",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-02-06",
+          "checkout": "2027-02-13",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-02-13",
+          "checkout": "2027-02-20",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-02-20",
+          "checkout": "2027-02-27",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-02-27",
+          "checkout": "2027-03-06",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-03-06",
+          "checkout": "2027-03-13",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-03-13",
+          "checkout": "2027-03-20",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-03-20",
+          "checkout": "2027-03-27",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-03-27",
+          "checkout": "2027-04-03",
+          "rate": 400.0
+        },
+        {
+          "checkin": "2027-04-03",
+          "checkout": "2027-04-10",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-04-10",
+          "checkout": "2027-04-17",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-04-17",
+          "checkout": "2027-04-24",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-04-24",
+          "checkout": "2027-05-01",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-05-01",
+          "checkout": "2027-05-08",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-05-08",
+          "checkout": "2027-05-15",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-05-15",
+          "checkout": "2027-05-22",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-05-22",
+          "checkout": "2027-05-29",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-05-29",
+          "checkout": "2027-06-05",
+          "rate": 557.14
+        },
+        {
+          "checkin": "2027-06-05",
+          "checkout": "2027-06-12",
+          "rate": 557.14
+        },
+        {
+          "checkin": "2027-06-12",
+          "checkout": "2027-06-19",
+          "rate": 1214.28
+        },
+        {
+          "checkin": "2027-06-19",
+          "checkout": "2027-06-26",
+          "rate": 1214.28
+        },
+        {
+          "checkin": "2027-06-26",
+          "checkout": "2027-07-03",
+          "rate": 1357.14
+        },
+        {
+          "checkin": "2027-07-03",
+          "checkout": "2027-07-10",
+          "rate": 1357.14
+        },
+        {
+          "checkin": "2027-07-10",
+          "checkout": "2027-07-17",
+          "rate": 1414.28
+        },
+        {
+          "checkin": "2027-07-17",
+          "checkout": "2027-07-24",
+          "rate": 1414.28
+        },
+        {
+          "checkin": "2027-07-24",
+          "checkout": "2027-07-31",
+          "rate": 1414.28
+        },
+        {
+          "checkin": "2027-07-31",
+          "checkout": "2027-08-07",
+          "rate": 1414.28
+        },
+        {
+          "checkin": "2027-08-07",
+          "checkout": "2027-08-14",
+          "rate": 1414.28
+        },
+        {
+          "checkin": "2027-08-14",
+          "checkout": "2027-08-21",
+          "rate": 1357.14
+        },
+        {
+          "checkin": "2027-08-21",
+          "checkout": "2027-08-28",
+          "rate": 1128.57
+        },
+        {
+          "checkin": "2027-08-28",
+          "checkout": "2027-09-04",
+          "rate": 785.71
+        },
+        {
+          "checkin": "2027-09-04",
+          "checkout": "2027-09-11",
+          "rate": 557.14
+        },
+        {
+          "checkin": "2027-09-11",
+          "checkout": "2027-09-18",
+          "rate": 414.28
+        },
+        {
+          "checkin": "2027-09-18",
+          "checkout": "2027-09-25",
+          "rate": 414.28
+        },
+        {
+          "checkin": "2027-09-25",
+          "checkout": "2027-10-02",
+          "rate": 414.28
+        },
+        {
+          "checkin": "2027-10-02",
+          "checkout": "2027-10-09",
+          "rate": 414.28
+        },
+        {
+          "checkin": "2027-10-09",
+          "checkout": "2027-10-16",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-10-16",
+          "checkout": "2027-10-23",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-10-23",
+          "checkout": "2027-10-30",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-10-30",
+          "checkout": "2027-11-06",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-11-06",
+          "checkout": "2027-11-13",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-11-13",
+          "checkout": "2027-11-20",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-11-20",
+          "checkout": "2027-11-27",
+          "rate": 642.85
+        },
+        {
+          "checkin": "2027-11-27",
+          "checkout": "2027-12-04",
+          "rate": 642.85
         }
       ],
       "amenities": [
@@ -68524,10 +68771,10 @@
           "avg_rate": 10500.0
         },
         {
-          "checkin": "2026-09-19",
+          "checkin": "2026-10-03",
           "checkout": "2027-01-09",
           "status": "Available",
-          "avg_rate": 2837.5
+          "avg_rate": 2771.42
         }
       ],
       "rates": [
@@ -68977,7 +69224,7 @@
           "rate": 157.14
         },
         {
-          "checkin": "2026-06-02",
+          "checkin": "2026-06-03",
           "checkout": "2026-06-13",
           "rate": 375.0
         }
@@ -69577,7 +69824,7 @@
       ],
       "rates": [
         {
-          "checkin": "2026-06-02",
+          "checkin": "2026-06-03",
           "checkout": "2026-06-20",
           "rate": 400.0
         },
@@ -74342,7 +74589,7 @@
           "rate": 157.14
         },
         {
-          "checkin": "2026-06-02",
+          "checkin": "2026-06-03",
           "checkout": "2026-06-13",
           "rate": 375.0
         }
@@ -81000,18 +81247,18 @@
       ],
       "amenities": [
         "1 King Bed(s)",
-        "No Pets Accepted",
-        "Wireless Lan",
+        "1 Queen Bed(s)",
+        "6 Single Bed(s)",
+        "1 Sofa Bed(s)-Double",
+        "2  Sofa Bed(s)-Queen",
         "Garage",
         "Parking",
         "3 Parking Spaces",
         "Television",
         "6 TVs",
         "Cable TV",
-        "1 Queen Bed(s)",
-        "6 Single Bed(s)",
-        "1 Sofa Bed(s)-Double",
-        "2  Sofa Bed(s)-Queen"
+        "No Pets Accepted",
+        "Wireless Lan"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1159/1159123.0.jpg"
     },
@@ -81527,17 +81774,17 @@
         "2 Queen Bed(s)",
         "1 Double Bed(s)",
         "2 Single Bed(s)",
-        "Smart TV",
-        "6# of Smart TVs",
-        "Free WiFi",
-        "8 # Beach Chairs",
-        "TV Streaming Device",
         "Parking",
         "1 Parking Spaces",
         "Cable TV",
         "No Pets Accepted",
         "Beach Equipment",
-        "Wireless Lan"
+        "Wireless Lan",
+        "TV Streaming Device",
+        "Smart TV",
+        "6# of Smart TVs",
+        "Free WiFi",
+        "8 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1159/1159553.0.jpg"
     },
@@ -81634,19 +81881,19 @@
         }
       ],
       "amenities": [
-        "Free WiFi",
-        "Wireless Lan",
+        "2 Queen Bed(s)",
+        "2 Double Bed(s)",
+        "4 Single Bed(s)",
         "Garage",
         "Parking",
         "5 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
-        "4 Single Bed(s)",
-        "2 Double Bed(s)",
-        "2 Queen Bed(s)",
         "No Pets Accepted",
-        "Beach Equipment"
+        "Beach Equipment",
+        "Wireless Lan",
+        "Free WiFi"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161245.0.jpg"
     },
@@ -82122,8 +82369,6 @@
         }
       ],
       "amenities": [
-        "Beach Chairs",
-        "4 # Beach Chairs",
         "2 Queen Bed(s)",
         "2 Single Bed(s)",
         "Garage",
@@ -82135,7 +82380,9 @@
         "No Pets Accepted",
         "Beach Equipment",
         "Wireless Lan",
-        "Cable TV (Expanded)"
+        "Cable TV (Expanded)",
+        "Beach Chairs",
+        "4 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161327.0.jpg"
     },
@@ -82786,14 +83033,14 @@
         }
       ],
       "amenities": [
-        "No Pets Accepted",
+        "1 Queen Bed(s)",
+        "1 Sofa Bed(s)-Double",
         "1 Futon(s)",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "2 TVs",
-        "1 Queen Bed(s)",
-        "1 Sofa Bed(s)-Double",
+        "No Pets Accepted",
         "Wireless Lan",
         "TV Streaming Device"
       ],
@@ -85317,8 +85564,6 @@
         }
       ],
       "amenities": [
-        "Beach Equipment",
-        "4 # Beach Chairs",
         "1 Queen Bed(s)",
         "4 Single Bed(s)",
         "Parking",
@@ -85326,9 +85571,11 @@
         "Television",
         "2 TVs",
         "Cable TV",
-        "Cable TV (Expanded)",
+        "No Pets Accepted",
+        "Beach Equipment",
         "Wireless Lan",
-        "No Pets Accepted"
+        "Cable TV (Expanded)",
+        "4 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161501.0.jpg"
     },
@@ -85826,20 +86073,20 @@
         }
       ],
       "amenities": [
-        "4 # of Beach Badges",
-        "Smart TV",
-        "2# of Smart TVs",
         "1 Queen Bed(s)",
         "1 Sofa Bed(s)-Double",
-        "Beach Badges",
-        "No Pets Accepted",
-        "TV Streaming Device",
-        "Wireless Lan",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "Cable TV",
-        "Cable TV (Expanded)"
+        "No Pets Accepted",
+        "Beach Badges",
+        "Wireless Lan",
+        "TV Streaming Device",
+        "Cable TV (Expanded)",
+        "4 # of Beach Badges",
+        "Smart TV",
+        "2# of Smart TVs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161525.0.jpg"
     },
@@ -86371,7 +86618,7 @@
       "availability": [
         {
           "checkin": "2026-05-02",
-          "checkout": "2026-06-06",
+          "checkout": "2026-06-05",
           "status": "Available",
           "avg_rate": 2060.0
         },
@@ -86844,13 +87091,13 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "1 Queen Bed(s)",
+        "1  Sofa Bed(s)-Queen",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "1 TVs",
-        "High Speed Internet",
-        "1 Queen Bed(s)",
-        "1  Sofa Bed(s)-Queen"
+        "High Speed Internet"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161554.0.jpg"
     },
@@ -88114,15 +88361,15 @@
         "2 Queen Bed(s)",
         "1 Double Bed(s)",
         "2 Single Bed(s)",
+        "1 Pyramid Bed(s)",
         "Garage",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "1 TVs",
         "Cable TV",
-        "Wireless Lan",
         "No Pets Accepted",
-        "1 Pyramid Bed(s)",
+        "Wireless Lan",
         "Smart TV",
         "3# of Smart TVs",
         "1 Pyramid Bed(s)-Full"
@@ -88362,15 +88609,15 @@
         "1 Queen Bed(s)",
         "1 Double Bed(s)",
         "3 Single Bed(s)",
-        "1 Pyramid Bed(s)-Full",
-        "Beach Badges",
-        "Wireless Lan",
         "Garage",
         "Parking",
         "Television",
         "4 TVs",
         "No Pets Accepted",
-        "6 # of Beach Badges"
+        "Beach Badges",
+        "Wireless Lan",
+        "6 # of Beach Badges",
+        "1 Pyramid Bed(s)-Full"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161622.0.jpg"
     },
@@ -88886,9 +89133,15 @@
       "availability": [
         {
           "checkin": "2026-08-15",
+          "checkout": "2026-08-22",
+          "status": "Available",
+          "avg_rate": 2600.0
+        },
+        {
+          "checkin": "2026-09-05",
           "checkout": "2026-09-12",
           "status": "Available",
-          "avg_rate": 2225.0
+          "avg_rate": 1800.0
         },
         {
           "checkin": "2026-09-26",
@@ -89115,9 +89368,7 @@
       ],
       "amenities": [
         "2 Queen Bed(s)",
-        "Beach Chairs",
-        "Beach Umbrella",
-        "Smart TV",
+        "4 Single Bed(s)",
         "Garage",
         "Parking",
         "3 Parking Spaces",
@@ -89127,7 +89378,9 @@
         "No Pets Accepted",
         "Beach Equipment",
         "Wireless Lan",
-        "4 Single Bed(s)",
+        "Beach Chairs",
+        "Beach Umbrella",
+        "Smart TV",
         "5 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161632.0.jpg"
@@ -89277,8 +89530,8 @@
         "3 Parking Spaces",
         "Television",
         "2 TVs",
-        "High Speed Internet",
-        "No Pets Accepted"
+        "No Pets Accepted",
+        "High Speed Internet"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161637.0.jpg"
     },
@@ -91172,13 +91425,13 @@
         "1 King Bed(s)",
         "1 Queen Bed(s)",
         "Garage",
-        "Smart TV",
-        "3# of Smart TVs",
         "Parking",
         "1 Parking Spaces",
         "Cable TV",
         "Wireless Lan",
-        "Pets Considered"
+        "Pets Considered",
+        "Smart TV",
+        "3# of Smart TVs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161668.0.jpg"
     },
@@ -91615,13 +91868,6 @@
         }
       ],
       "amenities": [
-        "Beach Umbrella",
-        "Smart TV",
-        "2# of Smart TVs",
-        "1 Pyramid Bed(s)-Full",
-        "8 # of Beach Badges",
-        "No Pets Accepted",
-        "Wireless Lan",
         "1 Queen Bed(s)",
         "2 Double Bed(s)",
         "2 Single Bed(s)",
@@ -91630,7 +91876,14 @@
         "Parking",
         "2 Parking Spaces",
         "Television",
-        "Beach Badges"
+        "No Pets Accepted",
+        "Beach Badges",
+        "Wireless Lan",
+        "8 # of Beach Badges",
+        "Beach Umbrella",
+        "Smart TV",
+        "2# of Smart TVs",
+        "1 Pyramid Bed(s)-Full"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161677.0.jpg"
     },
@@ -92093,17 +92346,17 @@
         }
       ],
       "amenities": [
-        "No Pets Accepted",
-        "Beach Badges",
-        "5# of Smart TVs",
-        "8 # of Beach Badges",
-        "Wireless Lan",
         "3 Queen Bed(s)",
         "2 Single Bed(s)",
         "Garage",
         "Parking",
         "2 Parking Spaces",
-        "Television"
+        "Television",
+        "No Pets Accepted",
+        "Beach Badges",
+        "Wireless Lan",
+        "8 # of Beach Badges",
+        "5# of Smart TVs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161681.0.jpg"
     },
@@ -92543,6 +92796,11 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "1 Queen Bed(s)",
+        "2 Double Bed(s)",
+        "4 Single Bed(s)",
+        "1 Futon(s)",
         "Garage",
         "Parking",
         "2 Parking Spaces",
@@ -92552,12 +92810,7 @@
         "No Pets Accepted",
         "Wireless Lan",
         "Free WiFi",
-        "2 Pyramid Bed(s)-Full",
-        "1 King Bed(s)",
-        "1 Queen Bed(s)",
-        "2 Double Bed(s)",
-        "4 Single Bed(s)",
-        "1 Futon(s)"
+        "2 Pyramid Bed(s)-Full"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161822.0.jpg"
     },
@@ -93012,8 +93265,8 @@
         "Television",
         "5 TVs",
         "Cable TV",
-        "Wireless Lan",
         "Pets Accepted",
+        "Wireless Lan",
         "1 Pyramid Bed(s)-Full"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161866.0.jpg"
@@ -93946,18 +94199,18 @@
         }
       ],
       "amenities": [
-        "Cable TV",
         "2 King Bed(s)",
+        "4 Single Bed(s)",
         "Garage",
         "Parking",
         "2 Parking Spaces",
+        "Cable TV",
+        "No Pets Accepted",
+        "Wireless Lan",
         "TV Streaming Device",
         "Smart TV",
         "3# of Smart TVs",
-        "Free WiFi",
-        "Wireless Lan",
-        "No Pets Accepted",
-        "4 Single Bed(s)"
+        "Free WiFi"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1162/1162090.0.jpg"
     },
@@ -95504,17 +95757,6 @@
         }
       ],
       "amenities": [
-        "Smart TV",
-        "Beach Equipment",
-        "Beach Chairs",
-        "Beach Umbrella",
-        "2 Twin Xl",
-        "10 # of Beach Badges",
-        "8 # Beach Chairs",
-        "Beach Badges",
-        "TV Streaming Device",
-        "No Pets Accepted",
-        "Loft",
         "2 King Bed(s)",
         "3 Queen Bed(s)",
         "2 Single Bed(s)",
@@ -95525,7 +95767,18 @@
         "2 Parking Spaces",
         "Television",
         "7 TVs",
-        "Wireless Lan"
+        "No Pets Accepted",
+        "Loft",
+        "Beach Equipment",
+        "Beach Badges",
+        "Wireless Lan",
+        "TV Streaming Device",
+        "10 # of Beach Badges",
+        "Beach Chairs",
+        "Beach Umbrella",
+        "Smart TV",
+        "2 Twin Xl",
+        "8 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1162/1162638.0.jpg"
     },
@@ -98434,18 +98687,18 @@
         }
       ],
       "amenities": [
-        "2 # Beach Chairs",
-        "Wireless Lan",
-        "4 # of Beach Badges",
-        "Beach Badges",
-        "No Pets Accepted",
         "1 Queen Bed(s)",
         "1 Sofa Bed(s)-Double",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "2 TVs",
-        "Cable TV"
+        "Cable TV",
+        "No Pets Accepted",
+        "Beach Badges",
+        "Wireless Lan",
+        "4 # of Beach Badges",
+        "2 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1164/1164458.0.jpg"
     },
@@ -98708,18 +98961,18 @@
         }
       ],
       "amenities": [
+        "2 King Bed(s)",
+        "3 Queen Bed(s)",
+        "2 Single Bed(s)",
+        "1 Bunk(s)",
         "Garage",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "6 TVs",
         "Cable TV",
-        "2 King Bed(s)",
-        "3 Queen Bed(s)",
-        "2 Single Bed(s)",
-        "1 Bunk(s)",
-        "Wireless Lan",
-        "No Pets Accepted"
+        "No Pets Accepted",
+        "Wireless Lan"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1164/1164546.0.jpg"
     },
@@ -98806,27 +99059,27 @@
         }
       ],
       "amenities": [
-        "Cable TV",
-        "Wireless Lan",
-        "10 # Beach Chairs",
-        "TV Streaming Device",
-        "Cable TV (Expanded)",
-        "5 # of Beach Badges",
-        "Beach Chairs",
-        "1 Pyramid Bed(s)-Full",
-        "Beach Badges",
-        "No Pets Accepted",
-        "Beach Equipment",
+        "2 King Bed(s)",
+        "2 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "3 Single Bed(s)",
+        "1 Pyramid Bed(s)",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "4 TVs",
-        "2 King Bed(s)",
-        "2 Queen Bed(s)",
-        "1 Double Bed(s)",
-        "3 Single Bed(s)",
-        "1 Pyramid Bed(s)"
+        "Cable TV",
+        "No Pets Accepted",
+        "Beach Equipment",
+        "Beach Badges",
+        "Wireless Lan",
+        "TV Streaming Device",
+        "Cable TV (Expanded)",
+        "5 # of Beach Badges",
+        "Beach Chairs",
+        "1 Pyramid Bed(s)-Full",
+        "10 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1164/1164568.0.jpg"
     },
@@ -100129,14 +100382,14 @@
         "3 Queen Bed(s)",
         "4 Single Bed(s)",
         "1 Bunk(s)",
-        "No Pets Accepted",
-        "Wireless Lan",
         "Garage",
         "Parking",
         "3 Parking Spaces",
+        "Television",
         "4 TVs",
         "Cable TV",
-        "Television"
+        "No Pets Accepted",
+        "Wireless Lan"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1164/1164875.0.jpg"
     },
@@ -101166,16 +101419,16 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "2 Queen Bed(s)",
+        "1  Sofa Bed(s)-Queen",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "4 TVs",
         "No Pets Accepted",
         "Wireless Lan",
-        "Smart TV",
-        "1 King Bed(s)",
-        "2 Queen Bed(s)",
-        "1  Sofa Bed(s)-Queen"
+        "Smart TV"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165049.0.jpg"
     },
@@ -101669,14 +101922,14 @@
         "4 Single Bed(s)",
         "1  Sofa Bed(s)-Queen",
         "2 Bunk(s)",
-        "Smart TV",
-        "Wireless Lan",
         "Garage",
         "Parking",
         "3 Parking Spaces",
         "Television",
         "6 TVs",
-        "No Pets Accepted"
+        "No Pets Accepted",
+        "Wireless Lan",
+        "Smart TV"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165101.0.jpg"
     },
@@ -102517,7 +102770,6 @@
         }
       ],
       "amenities": [
-        "Smart TV",
         "1 King Bed(s)",
         "3 Queen Bed(s)",
         "4 Single Bed(s)",
@@ -102530,7 +102782,8 @@
         "6 TVs",
         "No Pets Accepted",
         "Beach Badges",
-        "Wireless Lan"
+        "Wireless Lan",
+        "Smart TV"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165169.0.jpg"
     },
@@ -103810,18 +104063,18 @@
         }
       ],
       "amenities": [
-        "3 Parking Spaces",
-        "No Pets Accepted",
-        "6 TVs",
-        "Wireless Lan",
-        "1  Sofa Bed(s)-Queen",
-        "2 Bunk(s)",
-        "Television",
         "1 King Bed(s)",
         "3 Queen Bed(s)",
         "4 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "2 Bunk(s)",
+        "Garage",
         "Parking",
-        "Garage"
+        "3 Parking Spaces",
+        "Television",
+        "6 TVs",
+        "No Pets Accepted",
+        "Wireless Lan"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165409.0.jpg"
     },
@@ -104130,9 +104383,15 @@
         },
         {
           "checkin": "2027-04-17",
+          "checkout": "2027-05-29",
+          "status": "Available",
+          "avg_rate": 3000.0
+        },
+        {
+          "checkin": "2027-06-05",
           "checkout": "2027-10-16",
           "status": "Available",
-          "avg_rate": 5588.46
+          "avg_rate": 6518.42
         }
       ],
       "rates": [
@@ -104363,21 +104622,21 @@
         }
       ],
       "amenities": [
-        "Beach Badges",
         "1 King Bed(s)",
         "3 Queen Bed(s)",
         "4 Single Bed(s)",
-        "Television",
-        "8 # of Beach Badges",
-        "Smart TV",
-        "6 TVs",
-        "No Pets Accepted",
+        "1  Sofa Bed(s)-Queen",
+        "2 Bunk(s)",
+        "Garage",
         "Parking",
         "3 Parking Spaces",
-        "Garage",
+        "Television",
+        "6 TVs",
+        "No Pets Accepted",
+        "Beach Badges",
         "Wireless Lan",
-        "1  Sofa Bed(s)-Queen",
-        "2 Bunk(s)"
+        "8 # of Beach Badges",
+        "Smart TV"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165446.0.jpg"
     },
@@ -104466,13 +104725,19 @@
       "availability": [
         {
           "checkin": "2026-05-30",
+          "checkout": "2026-06-06",
+          "status": "Available",
+          "avg_rate": 3500.0
+        },
+        {
+          "checkin": "2026-06-13",
           "checkout": "2026-06-20",
           "status": "Available",
           "avg_rate": 3500.0
         },
         {
           "checkin": "2026-09-05",
-          "checkout": "2026-09-26",
+          "checkout": "2026-09-19",
           "status": "Available",
           "avg_rate": 3500.0
         },
@@ -104641,20 +104906,20 @@
         }
       ],
       "amenities": [
-        "Wireless Lan",
-        "No Pets Accepted",
-        "Parking",
-        "2 Parking Spaces",
-        "Television",
-        "3 TVs",
-        "Cable TV",
         "1 King Bed(s)",
         "2 Queen Bed(s)",
         "4 Single Bed(s)",
         "1 Sofa Bed(s)-Double",
         "1  Sofa Bed(s)-Queen",
         "2 Bunk(s)",
-        "2 Trundle(s)"
+        "2 Trundle(s)",
+        "Parking",
+        "2 Parking Spaces",
+        "Television",
+        "3 TVs",
+        "Cable TV",
+        "No Pets Accepted",
+        "Wireless Lan"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165556.0.jpg"
     },
@@ -104674,7 +104939,7 @@
           "checkin": "2025-12-03",
           "checkout": "2026-07-18",
           "status": "Available",
-          "avg_rate": 1016.96
+          "avg_rate": 1002.87
         },
         {
           "checkin": "2026-09-05",
@@ -104707,17 +104972,17 @@
         {
           "checkin": "2026-06-27",
           "checkout": "2026-07-04",
-          "rate": 250.0
+          "rate": 227.85
         },
         {
           "checkin": "2026-07-04",
           "checkout": "2026-07-11",
-          "rate": 250.0
+          "rate": 227.85
         },
         {
           "checkin": "2026-07-11",
           "checkout": "2026-07-18",
-          "rate": 250.0
+          "rate": 227.85
         },
         {
           "checkin": "2026-08-29",
@@ -105203,6 +105468,10 @@
         }
       ],
       "amenities": [
+        "3 Queen Bed(s)",
+        "3 Double Bed(s)",
+        "1 Single Bed(s)",
+        "1 Day Bed(s)",
         "Garage",
         "3 Parking Spaces",
         "Television",
@@ -105212,11 +105481,7 @@
         "Wireless Lan",
         "6 # of Beach Badges",
         "Smart TV",
-        "1# of Smart TVs",
-        "3 Queen Bed(s)",
-        "3 Double Bed(s)",
-        "1 Single Bed(s)",
-        "1 Day Bed(s)"
+        "1# of Smart TVs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165663.0.jpg"
     },
@@ -105508,16 +105773,16 @@
         }
       ],
       "amenities": [
+        "2 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "2 Single Bed(s)",
+        "Parking",
         "1 Parking Spaces",
         "Television",
         "2 TVs",
         "Wireless Lan",
         "Pets Considered",
         "TV Streaming Device",
-        "Parking",
-        "2 Queen Bed(s)",
-        "1 Double Bed(s)",
-        "2 Single Bed(s)",
         "Smart TV"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165905.0.jpg"
@@ -106246,21 +106511,21 @@
         }
       ],
       "amenities": [
-        "Beach Chairs",
-        "Smart TV",
-        "6# of Smart TVs",
-        "3 Parking Spaces",
-        "Cable TV",
-        "Wireless Lan",
-        "No Pets Accepted",
-        "2 Twin Xl",
-        "Garage",
-        "Parking",
         "2 King Bed(s)",
         "2 Queen Bed(s)",
         "2 Single Bed(s)",
         "1 Bunk(s)",
-        "8 # of Beach Badges"
+        "Garage",
+        "Parking",
+        "3 Parking Spaces",
+        "Cable TV",
+        "No Pets Accepted",
+        "Wireless Lan",
+        "8 # of Beach Badges",
+        "Beach Chairs",
+        "Smart TV",
+        "6# of Smart TVs",
+        "2 Twin Xl"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1166/1166353.0.jpg"
     },
@@ -107460,16 +107725,16 @@
         }
       ],
       "amenities": [
-        "Cable TV",
-        "No Pets Accepted",
-        "Beach Badges",
-        "Wireless Lan",
+        "2 King Bed(s)",
+        "4 Single Bed(s)",
         "Parking",
         "3 Parking Spaces",
         "Television",
         "3 TVs",
-        "2 King Bed(s)",
-        "4 Single Bed(s)",
+        "Cable TV",
+        "No Pets Accepted",
+        "Beach Badges",
+        "Wireless Lan",
         "4 # of Beach Badges",
         "Free WiFi"
       ],
@@ -107902,8 +108167,8 @@
         "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
-        "Free WiFi",
-        "6 # of Beach Badges"
+        "6 # of Beach Badges",
+        "Free WiFi"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1166/1166750.0.jpg"
     },
@@ -108168,16 +108433,16 @@
         }
       ],
       "amenities": [
-        "Free WiFi",
-        "Wireless Lan",
+        "2 Queen Bed(s)",
+        "1 Futon(s)",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
         "No Pets Accepted",
-        "2 Queen Bed(s)",
-        "1 Futon(s)"
+        "Wireless Lan",
+        "Free WiFi"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1166/1166830.0.jpg"
     },
@@ -108472,15 +108737,15 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "2 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "1 Bunk(s)",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
-        "1 Bunk(s)",
-        "1  Sofa Bed(s)-Queen",
-        "2 Single Bed(s)",
-        "1 Queen Bed(s)",
         "No Pets Accepted",
         "Wireless Lan"
       ],
@@ -108598,25 +108863,25 @@
         }
       ],
       "amenities": [
-        "5# of Smart TVs",
-        "6 # Beach Chairs",
+        "2 Queen Bed(s)",
+        "6 Single Bed(s)",
+        "2 Bunk(s)",
+        "Garage",
+        "Parking",
+        "3 Parking Spaces",
+        "Television",
         "Cable TV",
-        "Smart TV",
-        "Beach Chairs",
-        "Beach Umbrella",
-        "8 # of Beach Badges",
         "No Pets Accepted",
         "Beach Equipment",
         "Beach Badges",
         "Wireless Lan",
-        "3 Parking Spaces",
-        "Television",
+        "8 # of Beach Badges",
+        "Beach Chairs",
+        "Beach Umbrella",
+        "Smart TV",
+        "5# of Smart TVs",
         "Free WiFi",
-        "Parking",
-        "Garage",
-        "2 Bunk(s)",
-        "2 Queen Bed(s)",
-        "6 Single Bed(s)"
+        "6 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1166/1166958.0.jpg"
     },
@@ -110412,19 +110677,19 @@
         }
       ],
       "amenities": [
+        "3 Queen Bed(s)",
+        "4 Single Bed(s)",
+        "1 Bunk(s)",
+        "Garage",
+        "Parking",
+        "4 Parking Spaces",
         "Television",
         "6 TVs",
         "Cable TV",
         "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
-        "10 # of Beach Badges",
-        "Garage",
-        "Parking",
-        "4 Parking Spaces",
-        "3 Queen Bed(s)",
-        "4 Single Bed(s)",
-        "1 Bunk(s)"
+        "10 # of Beach Badges"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167689.0.jpg"
     },
@@ -110781,6 +111046,12 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "2 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "1 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "1 Pyramid Bed(s)",
         "Garage",
         "Parking",
         "2 Parking Spaces",
@@ -110788,12 +111059,6 @@
         "4 TVs",
         "No Pets Accepted",
         "Wireless Lan",
-        "1 King Bed(s)",
-        "2 Queen Bed(s)",
-        "1 Double Bed(s)",
-        "1 Single Bed(s)",
-        "1  Sofa Bed(s)-Queen",
-        "1 Pyramid Bed(s)",
         "TV Streaming Device",
         "Cable TV (Expanded)",
         "Smart TV",
@@ -112003,19 +112268,19 @@
         }
       ],
       "amenities": [
-        "6 # Beach Chairs",
+        "1 King Bed(s)",
+        "1 Queen Bed(s)",
+        "6 Single Bed(s)",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "4 TVs",
         "Cable TV",
-        "Wireless Lan",
         "No Pets Accepted",
         "Beach Equipment",
-        "1 King Bed(s)",
-        "1 Queen Bed(s)",
-        "6 Single Bed(s)"
+        "Wireless Lan",
+        "6 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1168/1168339.0.jpg"
     },
@@ -112164,24 +112429,24 @@
         }
       ],
       "amenities": [
-        "1 Sofa Bed(s)-King",
-        "1 Bunk - Double",
-        "TV Streaming Device",
-        "Wireless Lan",
-        "Beach Badges",
-        "No Pets Accepted",
-        "Beach Equipment",
+        "1 Queen Bed(s)",
+        "1 Trundle(s)",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "Cable TV",
-        "1 Queen Bed(s)",
-        "1 Trundle(s)",
+        "No Pets Accepted",
+        "Beach Equipment",
+        "Beach Badges",
+        "Wireless Lan",
+        "1 Bunk - Double",
+        "TV Streaming Device",
+        "2 # of Beach Badges",
+        "1 Sofa Bed(s)-King",
         "Beach Chairs",
         "Beach Umbrella",
         "Smart TV",
-        "3# of Smart TVs",
-        "2 # of Beach Badges"
+        "3# of Smart TVs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1168/1168489.0.jpg"
     },
@@ -112590,6 +112855,23 @@
         }
       ],
       "amenities": [
+        "2 King Bed(s)",
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "3 Single Bed(s)",
+        "1 Bunk(s)",
+        "1 Trundle(s)",
+        "1 Futon(s)",
+        "Garage",
+        "Parking",
+        "2 Parking Spaces",
+        "Television",
+        "2 TVs",
+        "Cable TV",
+        "No Pets Accepted",
+        "Beach Equipment",
+        "Beach Badges",
+        "Wireless Lan",
         "TV Streaming Device",
         "10 # of Beach Badges",
         "Beach Chairs",
@@ -112597,24 +112879,7 @@
         "Smart TV",
         "3# of Smart TVs",
         "Free WiFi",
-        "Wireless Lan",
-        "Beach Badges",
-        "2 Parking Spaces",
-        "Garage",
-        "1 Queen Bed(s)",
-        "1 Double Bed(s)",
-        "3 Single Bed(s)",
-        "1 Bunk(s)",
-        "1 Trundle(s)",
-        "1 Futon(s)",
-        "2 TVs",
-        "Cable TV",
-        "No Pets Accepted",
-        "Beach Equipment",
-        "8 # Beach Chairs",
-        "2 King Bed(s)",
-        "Parking",
-        "Television"
+        "8 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1168/1168696.0.jpg"
     },
@@ -113304,18 +113569,18 @@
         "3 Single Bed(s)",
         "Garage",
         "Parking",
-        "Cable TV",
+        "2 Parking Spaces",
         "Television",
-        "2 Twin Xl",
-        "4 # Beach Chairs",
+        "4 TVs",
+        "Cable TV",
+        "No Pets Accepted",
+        "Wireless Lan",
         "Cable TV (Expanded)",
         "Beach Chairs",
         "Beach Umbrella",
         "Smart TV",
-        "Wireless Lan",
-        "No Pets Accepted",
-        "2 Parking Spaces",
-        "4 TVs"
+        "2 Twin Xl",
+        "4 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1168/1168854.0.jpg"
     },
@@ -113573,15 +113838,6 @@
         }
       ],
       "amenities": [
-        "Beach Badges",
-        "Pets Considered",
-        "TV Streaming Device",
-        "Cable TV (Expanded)",
-        "4 # of Beach Badges",
-        "Smart TV",
-        "4 # Beach Chairs",
-        "Wireless Lan",
-        "Pets Accepted",
         "1 King Bed(s)",
         "2 Queen Bed(s)",
         "1 Double Bed(s)",
@@ -113592,7 +113848,16 @@
         "2 Parking Spaces",
         "Television",
         "3 TVs",
-        "Cable TV"
+        "Cable TV",
+        "Pets Accepted",
+        "Beach Badges",
+        "Wireless Lan",
+        "Pets Considered",
+        "TV Streaming Device",
+        "Cable TV (Expanded)",
+        "4 # of Beach Badges",
+        "Smart TV",
+        "4 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1168/1168859.0.jpg"
     },
@@ -118947,15 +119212,15 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "2 Queen Bed(s)",
+        "4 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "2 Bunk(s)",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "4 TVs",
         "Cable TV",
-        "2 Bunk(s)",
-        "1  Sofa Bed(s)-Queen",
-        "4 Single Bed(s)",
-        "2 Queen Bed(s)",
         "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
@@ -119543,10 +119808,10 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "3 Queen Bed(s)",
+        "1  Sofa Bed(s)-Queen",
         "1 Parking Spaces",
         "Cable TV",
-        "1  Sofa Bed(s)-Queen",
-        "3 Queen Bed(s)",
         "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
@@ -123951,12 +124216,15 @@
         }
       ],
       "amenities": [
-        "2 Pyramid Bed(s)",
-        "1 Trundle(s)",
-        "3 Single Bed(s)",
-        "2 Double Bed(s)",
-        "2 Queen Bed(s)",
         "1 King Bed(s)",
+        "2 Queen Bed(s)",
+        "2 Double Bed(s)",
+        "3 Single Bed(s)",
+        "1 Trundle(s)",
+        "2 Pyramid Bed(s)",
+        "Garage",
+        "Parking",
+        "1 Parking Spaces",
         "No Pets Accepted",
         "Beach Equipment",
         "Wireless Lan",
@@ -123966,10 +124234,7 @@
         "Beach Umbrella",
         "Smart TV",
         "5# of Smart TVs",
-        "8 # Beach Chairs",
-        "Garage",
-        "Parking",
-        "1 Parking Spaces"
+        "8 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1187/1187757.0.jpg"
     },
@@ -125309,23 +125574,23 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "3 Queen Bed(s)",
+        "2 Single Bed(s)",
+        "1 Sofa Bed(s)-Double",
+        "1 Bunk(s)",
+        "Parking",
+        "2 Parking Spaces",
+        "Television",
+        "6 TVs",
         "Cable TV",
         "No Pets Accepted",
         "Beach Equipment",
         "Beach Badges",
         "Wireless Lan",
         "6 # of Beach Badges",
-        "Parking",
-        "2 Parking Spaces",
-        "Television",
-        "6 TVs",
-        "1 King Bed(s)",
-        "3 Queen Bed(s)",
-        "2 Single Bed(s)",
-        "1 Sofa Bed(s)-Double",
-        "1 Bunk(s)",
-        "4 # Beach Chairs",
-        "Beach Chairs"
+        "Beach Chairs",
+        "4 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1191/1191124.0.jpg"
     },
@@ -125523,14 +125788,14 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "1  Sofa Bed(s)-Queen",
         "Parking",
         "Television",
         "1 TVs",
-        "Wireless Lan",
         "No Pets Accepted",
-        "1 Queen Bed(s)",
-        "1 Double Bed(s)",
-        "1  Sofa Bed(s)-Queen"
+        "Wireless Lan"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1191/1191623.0.jpg"
     },
@@ -125548,14 +125813,14 @@
       "availability": [],
       "rates": [],
       "amenities": [
-        "Free WiFi",
-        "StreamingServices",
         "1 Queen Bed(s)",
         "2 Single Bed(s)",
         "1 Sofa Bed(s)-Double",
         "Television",
         "1 TVs",
-        "No Pets Accepted"
+        "No Pets Accepted",
+        "Free WiFi",
+        "StreamingServices"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1219/1219025.0.jpg"
     },
@@ -126631,12 +126896,6 @@
           "avg_rate": 6950.0
         },
         {
-          "checkin": "2026-07-11",
-          "checkout": "2026-07-18",
-          "status": "Available",
-          "avg_rate": 15500.0
-        },
-        {
           "checkin": "2026-07-25",
           "checkout": "2026-08-01",
           "status": "Available",
@@ -127475,20 +127734,20 @@
         }
       ],
       "amenities": [
-        "1 King Bed(s)",
-        "2 Queen Bed(s)",
-        "1 Futon(s)",
         "Garage",
         "2 Car Garage",
         "Parking",
         "3 Parking Spaces",
         "Television",
         "5 TVs",
+        "Beach Chairs",
+        "Beach Umbrella",
+        "Wireless Lan",
         "No Pets Accepted",
         "Beach Equipment",
-        "Wireless Lan",
-        "Beach Chairs",
-        "Beach Umbrella"
+        "1 King Bed(s)",
+        "2 Queen Bed(s)",
+        "1 Futon(s)"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1211/1211157.0.jpg"
     },
@@ -127559,11 +127818,11 @@
         "1 Queen Bed(s)",
         "2 Single Bed(s)",
         "1  Sofa Bed(s)-Queen",
+        "No Pets Accepted",
+        "Wireless Lan",
         "Television",
         "2 TVs",
-        "Cable TV",
-        "No Pets Accepted",
-        "Wireless Lan"
+        "Cable TV"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1208/1208329.0.jpg"
     },
@@ -127581,9 +127840,15 @@
       "availability": [
         {
           "checkin": "2026-05-30",
+          "checkout": "2026-06-13",
+          "status": "Available",
+          "avg_rate": 1350.0
+        },
+        {
+          "checkin": "2026-06-20",
           "checkout": "2026-06-27",
           "status": "Available",
-          "avg_rate": 1475.0
+          "avg_rate": 2000.0
         },
         {
           "checkin": "2026-07-04",
@@ -129561,15 +129826,9 @@
         },
         {
           "checkin": "2026-07-04",
-          "checkout": "2026-08-15",
-          "status": "Available",
-          "avg_rate": 2100.0
-        },
-        {
-          "checkin": "2026-08-22",
           "checkout": "2026-10-03",
           "status": "Available",
-          "avg_rate": 1083.33
+          "avg_rate": 1600.0
         }
       ],
       "rates": [
@@ -130875,10 +131134,15 @@
         }
       ],
       "amenities": [
-        "1 Sofa Bed(s)-Double",
-        "1 Single Bed(s)",
-        "1 Double Bed(s)",
         "2 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "1 Single Bed(s)",
+        "1 Sofa Bed(s)-Double",
+        "Garage",
+        "Parking",
+        "1 Parking Spaces",
+        "Television",
+        "3 TVs",
         "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
@@ -130887,12 +131151,7 @@
         "Beach Umbrella",
         "1 Pyramid Bed(s)-Full",
         "StreamingServices",
-        "4 # Beach Chairs",
-        "Garage",
-        "Parking",
-        "1 Parking Spaces",
-        "Television",
-        "3 TVs"
+        "4 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1213/1213239.0.jpg"
     },
@@ -132835,22 +133094,22 @@
         }
       ],
       "amenities": [
+        "Beach Chairs",
+        "Beach Umbrella",
+        "TV Streaming Device",
         "No Pets Accepted",
         "Beach Equipment",
         "Beach Badges",
-        "TV Streaming Device",
-        "Beach Chairs",
-        "Beach Umbrella",
         "Smart TV",
         "5# of Smart TVs",
-        "1 Pyramid Bed(s)-Full",
-        "Wireless Lan",
         "Parking",
         "1 Parking Spaces",
         "2 Queen Bed(s)",
         "1 Double Bed(s)",
         "4 Single Bed(s)",
-        "1 Trundle(s)"
+        "1 Trundle(s)",
+        "Wireless Lan",
+        "1 Pyramid Bed(s)-Full"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1217/1217232.0.jpg"
     },
@@ -138604,13 +138863,13 @@
           "checkin": "2026-06-06",
           "checkout": "2026-06-13",
           "status": "Available",
-          "avg_rate": 5600.0
+          "avg_rate": 4000.0
         },
         {
           "checkin": "2026-06-27",
           "checkout": "2026-07-04",
           "status": "Available",
-          "avg_rate": 10000.0
+          "avg_rate": 8800.0
         },
         {
           "checkin": "2026-08-29",
@@ -138628,7 +138887,7 @@
         {
           "checkin": "2026-06-06",
           "checkout": "2026-06-13",
-          "rate": 800.0
+          "rate": 571.42
         },
         {
           "checkin": "2026-06-13",
@@ -138643,7 +138902,7 @@
         {
           "checkin": "2026-06-27",
           "checkout": "2026-07-04",
-          "rate": 1428.57
+          "rate": 1257.14
         },
         {
           "checkin": "2026-07-04",
@@ -139241,13 +139500,13 @@
           "checkin": "2026-07-04",
           "checkout": "2026-07-18",
           "status": "Available",
-          "avg_rate": 2400.0
+          "avg_rate": 2250.0
         },
         {
           "checkin": "2026-08-01",
           "checkout": "2026-10-03",
           "status": "Available",
-          "avg_rate": 1955.55
+          "avg_rate": 1900.0
         }
       ],
       "rates": [
@@ -139279,12 +139538,12 @@
         {
           "checkin": "2026-07-04",
           "checkout": "2026-07-11",
-          "rate": 342.85
+          "rate": 321.42
         },
         {
           "checkin": "2026-07-11",
           "checkout": "2026-07-18",
-          "rate": 342.85
+          "rate": 321.42
         },
         {
           "checkin": "2026-07-18",
@@ -139299,22 +139558,22 @@
         {
           "checkin": "2026-08-01",
           "checkout": "2026-08-08",
-          "rate": 342.85
+          "rate": 321.42
         },
         {
           "checkin": "2026-08-08",
           "checkout": "2026-08-15",
-          "rate": 342.85
+          "rate": 321.42
         },
         {
           "checkin": "2026-08-15",
           "checkout": "2026-08-22",
-          "rate": 314.28
+          "rate": 300.0
         },
         {
           "checkin": "2026-08-22",
           "checkout": "2026-08-29",
-          "rate": 314.28
+          "rate": 300.0
         },
         {
           "checkin": "2026-08-29",
@@ -139343,9 +139602,6 @@
         }
       ],
       "amenities": [
-        "1 King Bed(s)",
-        "1 Queen Bed(s)",
-        "1 Single Bed(s)",
         "Parking",
         "1 Parking Spaces",
         "Television",
@@ -139353,7 +139609,10 @@
         "Cable TV",
         "No Pets Accepted",
         "Beach Badges",
-        "Wireless Lan"
+        "Wireless Lan",
+        "1 King Bed(s)",
+        "1 Queen Bed(s)",
+        "1 Single Bed(s)"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1245/1245657.0.jpg"
     },
@@ -139497,12 +139756,6 @@
         }
       ],
       "amenities": [
-        "4 # of Beach Badges",
-        "Beach Umbrella",
-        "Smart TV",
-        "5# of Smart TVs",
-        "1 Pyramid Bed(s)-Full",
-        "4 # Beach Chairs",
         "1 King Bed(s)",
         "1 Queen Bed(s)",
         "1 Double Bed(s)",
@@ -139513,7 +139766,13 @@
         "2 Parking Spaces",
         "No Pets Accepted",
         "Beach Equipment",
-        "Wireless Lan"
+        "Wireless Lan",
+        "4 # of Beach Badges",
+        "Beach Umbrella",
+        "Smart TV",
+        "5# of Smart TVs",
+        "1 Pyramid Bed(s)-Full",
+        "4 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1234/1234365.0.jpg"
     },
@@ -139651,12 +139910,12 @@
         "Television",
         "1 TVs",
         "Cable TV",
+        "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
-        "Smart TV",
-        "2# of Smart TVs",
         "4 # of Beach Badges",
-        "No Pets Accepted"
+        "Smart TV",
+        "2# of Smart TVs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1234/1234442.0.jpg"
     },
@@ -140059,24 +140318,24 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "3 Queen Bed(s)",
+        "2 Double Bed(s)",
+        "3 Single Bed(s)",
+        "1 Trundle(s)",
         "Garage",
         "Parking",
         "3 Parking Spaces",
         "Television",
         "7 TVs",
-        "Wireless Lan",
         "No Pets Accepted",
         "Beach Equipment",
-        "BeachCart",
+        "Wireless Lan",
         "1 Bunk - Double",
         "TV Streaming Device",
         "Beach Umbrella",
         "10 # Beach Chairs",
-        "1 King Bed(s)",
-        "3 Queen Bed(s)",
-        "2 Double Bed(s)",
-        "3 Single Bed(s)",
-        "1 Trundle(s)"
+        "BeachCart"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1235/1235161.0.jpg"
     },
@@ -140427,6 +140686,11 @@
         }
       ],
       "amenities": [
+        "3 King Bed(s)",
+        "2 Double Bed(s)",
+        "3 Single Bed(s)",
+        "1 Sofa Bed(s)-Single",
+        "Parking",
         "2 Parking Spaces",
         "Television",
         "3 TVs",
@@ -140441,12 +140705,7 @@
         "8 # of Beach Badges",
         "Beach Chairs",
         "Beach Umbrella",
-        "Smart TV",
-        "3 King Bed(s)",
-        "2 Double Bed(s)",
-        "3 Single Bed(s)",
-        "1 Sofa Bed(s)-Single",
-        "Parking"
+        "Smart TV"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1237/1237174.0.jpg"
     },
@@ -143879,15 +144138,9 @@
         },
         {
           "checkin": "2026-07-11",
-          "checkout": "2026-07-18",
-          "status": "Available",
-          "avg_rate": 19700.0
-        },
-        {
-          "checkin": "2026-07-25",
           "checkout": "2026-09-26",
           "status": "Available",
-          "avg_rate": 7121.05
+          "avg_rate": 6978.26
         }
       ],
       "rates": [
@@ -147423,11 +147676,6 @@
         }
       ],
       "rates": [
-        {
-          "checkin": "2026-06-02",
-          "checkout": "2026-06-03",
-          "rate": 500.0
-        },
         {
           "checkin": "2026-05-30",
           "checkout": "2026-06-06",
