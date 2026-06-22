@@ -14,35 +14,44 @@
     "/rtr_api.php": {
       "get": {
         "operationId": "searchProperties",
-        "summary": "Search rental properties by street, date, bedrooms, or sleeps",
+        "summary": "Search rental properties by street, date, bedrooms, or sleeps. Always include the date parameter when any date or week is mentioned by the visitor. Never omit the date if the visitor specified one. Convert the mentioned date to the nearest Saturday in YYYY-MM-DD format.",
         "parameters": [
           {
             "name": "street",
             "in": "query",
             "required": false,
             "description": "Street name or property name to search for",
-            "schema": { "type": "string" }
+            "schema": {
+              "type": "string"
+            }
           },
           {
             "name": "date",
             "in": "query",
             "required": false,
             "description": "Check-in date in YYYY-MM-DD format (Saturday dates only)",
-            "schema": { "type": "string", "format": "date" }
+            "schema": {
+              "type": "string",
+              "format": "date"
+            }
           },
           {
             "name": "bedrooms",
             "in": "query",
             "required": false,
             "description": "Minimum number of bedrooms",
-            "schema": { "type": "integer" }
+            "schema": {
+              "type": "integer"
+            }
           },
           {
             "name": "sleeps",
             "in": "query",
             "required": false,
             "description": "Minimum number of people the property must sleep",
-            "schema": { "type": "integer" }
+            "schema": {
+              "type": "integer"
+            }
           }
         ],
         "responses": {
@@ -53,18 +62,32 @@
                 "schema": {
                   "type": "object",
                   "properties": {
-                    "total": { "type": "integer" },
+                    "total": {
+                      "type": "integer"
+                    },
                     "properties": {
                       "type": "array",
                       "items": {
                         "type": "object",
                         "properties": {
-                          "name": { "type": "string" },
-                          "street": { "type": "string" },
-                          "bedrooms": { "type": "integer" },
-                          "baths": { "type": "number" },
-                          "sleeps": { "type": "integer" },
-                          "amenities": { "type": "string" },
+                          "name": {
+                            "type": "string"
+                          },
+                          "street": {
+                            "type": "string"
+                          },
+                          "bedrooms": {
+                            "type": "integer"
+                          },
+                          "baths": {
+                            "type": "number"
+                          },
+                          "sleeps": {
+                            "type": "integer"
+                          },
+                          "amenities": {
+                            "type": "string"
+                          },
                           "availability": {},
                           "rates": {}
                         }
@@ -76,7 +99,11 @@
             }
           }
         },
-        "security": [{ "ApiKeyAuth": [] }]
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
       }
     }
   },
