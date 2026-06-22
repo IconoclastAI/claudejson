@@ -103,7 +103,8 @@
           {
             "ApiKeyAuth": []
           }
-        ]
+        ],
+        "description": "IMPORTANT: Always pass the date parameter when the visitor mentions any date, week, or time period. Convert to the nearest Saturday in YYYY-MM-DD format. Never call this tool without date if visitor mentioned one. Also pass street when visitor names a property or street."
       }
     }
   },
