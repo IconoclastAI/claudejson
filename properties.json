@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-24T07:00:05.523760+00:00",
-  "total": 1141,
+  "generated": "2026-08-25T07:00:04.960622+00:00",
+  "total": 1139,
   "properties": [
     {
       "ref_id": "1163823",
@@ -511,6 +511,11 @@
           "checkin": "2027-07-17",
           "checkout": "2027-07-24",
           "rate": 414.28
+        },
+        {
+          "checkin": "2027-08-14",
+          "checkout": "2027-08-21",
+          "rate": 485.71
         }
       ],
       "amenities": [
@@ -1194,13 +1199,13 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "2 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "1 Single Bed(s)",
+        "Coffee Maker",
         "Television",
         "4 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1 Single Bed(s)",
-        "1 Double Bed(s)",
-        "2 Queen Bed(s)",
         "No Pets Accepted",
         "High Speed Internet",
         "Beach Badges",
@@ -3292,17 +3297,17 @@
         }
       ],
       "amenities": [
+        "3 Queen Bed(s)",
+        "3 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "1 Rollaway(s)",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1 Rollaway(s)",
-        "1  Sofa Bed(s)-Queen",
-        "3 Single Bed(s)",
-        "3 Queen Bed(s)",
         "BBQ Charcoal",
         "No Pets Accepted",
         "Wireless Lan"
@@ -3447,6 +3452,26 @@
           "checkin": "2027-07-31",
           "checkout": "2027-08-07",
           "rate": 247.85
+        },
+        {
+          "checkin": "2027-08-14",
+          "checkout": "2027-08-21",
+          "rate": 191.42
+        },
+        {
+          "checkin": "2027-08-21",
+          "checkout": "2027-08-28",
+          "rate": 191.42
+        },
+        {
+          "checkin": "2027-08-28",
+          "checkout": "2027-09-04",
+          "rate": 191.42
+        },
+        {
+          "checkin": "2027-09-04",
+          "checkout": "2027-09-11",
+          "rate": 191.42
         }
       ],
       "amenities": [
@@ -3500,15 +3525,15 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "3 Queen Bed(s)",
+        "2 Single Bed(s)",
+        "Coffee Maker",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "5 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "2 Single Bed(s)",
-        "3 Queen Bed(s)",
-        "1 King Bed(s)",
         "BBQ Gas",
         "No Pets Accepted",
         "Beach Badges",
@@ -4100,15 +4125,15 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "4 Single Bed(s)",
+        "Coffee Maker",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "5 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "4 Single Bed(s)",
-        "1 Double Bed(s)",
-        "1 Queen Bed(s)",
         "Wireless Lan",
         "Pets Considered",
         "Keurig"
@@ -4146,7 +4171,7 @@
           "avg_rate": 1428.75
         },
         {
-          "checkin": "2027-06-26",
+          "checkin": "2027-07-03",
           "checkout": "2027-07-10",
           "status": "Available",
           "avg_rate": 4500.0
@@ -4373,15 +4398,15 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "1 Sofa Bed(s)-Double",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1 Sofa Bed(s)-Double",
-        "1 Queen Bed(s)",
         "BBQ Gas",
         "No Pets Accepted",
         "High Speed Internet",
@@ -4751,18 +4776,18 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "3 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "3 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1  Sofa Bed(s)-Queen",
-        "3 Single Bed(s)",
-        "1 Double Bed(s)",
-        "1 Queen Bed(s)",
-        "1 King Bed(s)",
         "No Pets Accepted",
         "Wireless Lan",
         "Keurig",
@@ -4893,6 +4918,10 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "6 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "Coffee Maker",
         "Garage",
         "2 Car Garage",
         "Parking",
@@ -4900,10 +4929,6 @@
         "Television",
         "2 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1  Sofa Bed(s)-Queen",
-        "6 Single Bed(s)",
-        "1 Queen Bed(s)",
         "No Pets Accepted",
         "Wireless Lan",
         "Keurig",
@@ -5122,10 +5147,10 @@
           "avg_rate": 1598.43
         },
         {
-          "checkin": "2027-06-05",
+          "checkin": "2027-06-12",
           "checkout": "2027-06-19",
           "status": "Available",
-          "avg_rate": 5850.0
+          "avg_rate": 6600.0
         },
         {
           "checkin": "2027-07-17",
@@ -6029,9 +6054,15 @@
         },
         {
           "checkin": "2027-01-02",
+          "checkout": "2027-06-05",
+          "status": "Available",
+          "avg_rate": 1712.5
+        },
+        {
+          "checkin": "2027-06-12",
           "checkout": "2027-06-26",
           "status": "Available",
-          "avg_rate": 2268.0
+          "avg_rate": 7037.5
         },
         {
           "checkin": "2027-07-03",
@@ -10085,19 +10116,19 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "2 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "4 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "2 Bunk(s)",
+        "2 Trundle(s)",
+        "Coffee Maker",
         "Parking",
         "4 Parking Spaces",
         "Television",
         "4 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "2 Trundle(s)",
-        "2 Bunk(s)",
-        "1  Sofa Bed(s)-Queen",
-        "4 Single Bed(s)",
-        "1 Double Bed(s)",
-        "2 Queen Bed(s)",
-        "1 King Bed(s)",
         "BBQ Gas",
         "No Pets Accepted",
         "Beach Badges",
@@ -10740,11 +10771,11 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "1 Futon(s)",
+        "Coffee Maker",
         "Parking",
         "1 Parking Spaces",
-        "Coffee Maker",
-        "1 Futon(s)",
-        "1 Queen Bed(s)",
         "No Pets Accepted"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1160/1160531.0.jpg"
@@ -11527,12 +11558,6 @@
       "half_baths": "0",
       "sleeps": "10",
       "availability": [
-        {
-          "checkin": "2026-08-29",
-          "checkout": "2026-09-12",
-          "status": "Available",
-          "avg_rate": 5400.0
-        },
         {
           "checkin": "2026-09-26",
           "checkout": "2026-10-31",
@@ -13001,15 +13026,15 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "2 Single Bed(s)",
+        "Coffee Maker",
         "Parking",
         "3 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "2 Single Bed(s)",
-        "1 Double Bed(s)",
-        "1 Queen Bed(s)",
         "No Pets Accepted",
         "Wireless Lan",
         "Keurig"
@@ -13182,7 +13207,7 @@
         "Parking",
         "2 Parking Spaces",
         "Television",
-        "3 TVs",
+        "5 TVs",
         "Cable TV",
         "BBQ Gas",
         "No Pets Accepted",
@@ -13342,6 +13367,7 @@
         "Coffee Maker",
         "Parking",
         "2 Parking Spaces",
+        "5 TVs",
         "Cable TV",
         "BBQ Gas",
         "No Pets Accepted",
@@ -13350,7 +13376,6 @@
         "Keurig",
         "4 # of Beach Badges",
         "Smart TV",
-        "3# of Smart TVs",
         "Free WiFi"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1163/1163904.0.jpg"
@@ -15664,10 +15689,10 @@
           "avg_rate": 4200.0
         },
         {
-          "checkin": "2027-08-14",
+          "checkin": "2027-08-21",
           "checkout": "2027-09-04",
           "status": "Available",
-          "avg_rate": 3633.33
+          "avg_rate": 3500.0
         }
       ],
       "rates": [
@@ -15851,6 +15876,11 @@
           "checkin": "2027-07-24",
           "checkout": "2027-07-31",
           "rate": 621.42
+        },
+        {
+          "checkin": "2027-08-14",
+          "checkout": "2027-08-21",
+          "rate": 521.42
         }
       ],
       "amenities": [
@@ -16719,7 +16749,7 @@
       "sleeps": "11",
       "availability": [
         {
-          "checkin": "2026-10-10",
+          "checkin": "2026-10-17",
           "checkout": "2026-11-21",
           "status": "Available",
           "avg_rate": 2100.0
@@ -17772,16 +17802,16 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "1 Queen Bed(s)",
+        "2 Double Bed(s)",
+        "4 Single Bed(s)",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "4 Single Bed(s)",
-        "2 Double Bed(s)",
-        "1 Queen Bed(s)",
         "BBQ Gas",
         "Pets Accepted",
         "Wireless Lan",
@@ -18670,6 +18700,11 @@
           "checkin": "2027-08-07",
           "checkout": "2027-08-14",
           "rate": 614.28
+        },
+        {
+          "checkin": "2027-08-14",
+          "checkout": "2027-08-21",
+          "rate": 592.85
         }
       ],
       "amenities": [
@@ -18843,9 +18878,15 @@
         },
         {
           "checkin": "2027-08-07",
+          "checkout": "2027-08-14",
+          "status": "Available",
+          "avg_rate": 5950.0
+        },
+        {
+          "checkin": "2027-08-21",
           "checkout": "2027-10-02",
           "status": "Available",
-          "avg_rate": 3375.0
+          "avg_rate": 2650.0
         }
       ],
       "rates": [
@@ -19864,7 +19905,7 @@
         },
         {
           "checkin": "2027-07-17",
-          "checkout": "2027-07-31",
+          "checkout": "2027-07-24",
           "status": "Available",
           "avg_rate": 3175.0
         },
@@ -20629,14 +20670,14 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "1 Sofa Bed(s)-Double",
+        "Coffee Maker",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "3 TVs",
-        "Coffee Maker",
-        "1 Sofa Bed(s)-Double",
-        "1 Double Bed(s)",
-        "1 Queen Bed(s)",
         "No Pets Accepted",
         "Wireless Lan"
       ],
@@ -20668,9 +20709,15 @@
         },
         {
           "checkin": "2027-07-17",
+          "checkout": "2027-07-31",
+          "status": "Available",
+          "avg_rate": 2700.0
+        },
+        {
+          "checkin": "2027-08-07",
           "checkout": "2027-09-04",
           "status": "Available",
-          "avg_rate": 2571.42
+          "avg_rate": 2475.0
         },
         {
           "checkin": "2027-09-11",
@@ -20801,7 +20848,7 @@
           "checkin": "2026-09-12",
           "checkout": "2026-10-31",
           "status": "Available",
-          "avg_rate": 2792.85
+          "avg_rate": 2328.57
         }
       ],
       "rates": [
@@ -20823,37 +20870,37 @@
         {
           "checkin": "2026-09-12",
           "checkout": "2026-09-19",
-          "rate": 471.42
+          "rate": 414.28
         },
         {
           "checkin": "2026-09-19",
           "checkout": "2026-09-26",
-          "rate": 442.85
+          "rate": 385.71
         },
         {
           "checkin": "2026-09-26",
           "checkout": "2026-10-03",
-          "rate": 392.85
+          "rate": 385.71
         },
         {
           "checkin": "2026-10-03",
           "checkout": "2026-10-10",
-          "rate": 371.42
+          "rate": 285.71
         },
         {
           "checkin": "2026-10-10",
           "checkout": "2026-10-17",
-          "rate": 371.42
+          "rate": 285.71
         },
         {
           "checkin": "2026-10-17",
           "checkout": "2026-10-24",
-          "rate": 371.42
+          "rate": 285.71
         },
         {
           "checkin": "2026-10-24",
           "checkout": "2026-10-31",
-          "rate": 371.42
+          "rate": 285.71
         },
         {
           "checkin": "2027-07-24",
@@ -20894,16 +20941,16 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "1 King Bed(s)",
+        "2 Double Bed(s)",
+        "1 Single Bed(s)",
+        "1 Pyramid Bed(s)",
+        "Coffee Maker",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1 Pyramid Bed(s)",
-        "1 Single Bed(s)",
-        "2 Double Bed(s)",
-        "1 King Bed(s)",
         "No Pets Accepted",
         "Wireless Lan",
         "Beach Chairs"
@@ -21209,12 +21256,12 @@
         "2 Queen Bed(s)",
         "2 Single Bed(s)",
         "1 Sofa Bed(s)-Double",
+        "Coffee Maker",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
-        "Coffee Maker",
         "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
@@ -21719,15 +21766,15 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "1 King Bed(s)",
+        "4 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "1 Rollaway(s)",
+        "Coffee Maker",
         "Garage",
         "2 Parking Spaces",
         "3 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1 Rollaway(s)",
-        "1  Sofa Bed(s)-Queen",
-        "4 Single Bed(s)",
-        "1 King Bed(s)",
         "No Pets Accepted",
         "Wireless Lan"
       ],
@@ -23697,9 +23744,9 @@
         },
         {
           "checkin": "2027-05-29",
-          "checkout": "2027-07-03",
+          "checkout": "2027-06-26",
           "status": "Available",
-          "avg_rate": 3275.0
+          "avg_rate": 3020.0
         },
         {
           "checkin": "2027-09-04",
@@ -24514,15 +24561,15 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "2 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "3 TVs",
-        "Coffee Maker",
-        "1  Sofa Bed(s)-Queen",
-        "2 Single Bed(s)",
-        "1 Double Bed(s)",
-        "1 Queen Bed(s)",
         "BBQ Gas",
         "Beach Equipment",
         "Wireless Lan"
@@ -24571,13 +24618,13 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "2 Double Bed(s)",
+        "4 Single Bed(s)",
+        "Coffee Maker",
         "Television",
         "2 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "4 Single Bed(s)",
-        "2 Double Bed(s)",
-        "1 Queen Bed(s)",
         "BBQ Charcoal",
         "No Pets Accepted",
         "Wireless Lan",
@@ -25006,93 +25053,6 @@
         "Wireless Lan"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167800.0.jpg"
-    },
-    {
-      "ref_id": "1167162",
-      "name": "904 St Charles Place  2nd Floor",
-      "street": "904 St Charles Place",
-      "type": "Duplex",
-      "floor": "2nd",
-      "unit": "",
-      "bedrooms": "4",
-      "baths": "2",
-      "half_baths": "0",
-      "sleeps": "9",
-      "availability": [
-        {
-          "checkin": "2026-09-19",
-          "checkout": "2026-10-31",
-          "status": "Available",
-          "avg_rate": 2200.0
-        }
-      ],
-      "rates": [
-        {
-          "checkin": "2026-08-22",
-          "checkout": "2026-08-29",
-          "rate": 457.14
-        },
-        {
-          "checkin": "2026-08-29",
-          "checkout": "2026-09-05",
-          "rate": 457.14
-        },
-        {
-          "checkin": "2026-09-05",
-          "checkout": "2026-09-12",
-          "rate": 342.85
-        },
-        {
-          "checkin": "2026-09-12",
-          "checkout": "2026-09-19",
-          "rate": 342.85
-        },
-        {
-          "checkin": "2026-09-19",
-          "checkout": "2026-09-26",
-          "rate": 342.85
-        },
-        {
-          "checkin": "2026-09-26",
-          "checkout": "2026-10-03",
-          "rate": 342.85
-        },
-        {
-          "checkin": "2026-10-03",
-          "checkout": "2026-10-10",
-          "rate": 342.85
-        },
-        {
-          "checkin": "2026-10-10",
-          "checkout": "2026-10-17",
-          "rate": 285.71
-        },
-        {
-          "checkin": "2026-10-17",
-          "checkout": "2026-10-24",
-          "rate": 285.71
-        },
-        {
-          "checkin": "2026-10-24",
-          "checkout": "2026-10-31",
-          "rate": 285.71
-        }
-      ],
-      "amenities": [
-        "1 King Bed(s)",
-        "2 Queen Bed(s)",
-        "2 Single Bed(s)",
-        "Coffee Maker",
-        "Parking",
-        "3 Parking Spaces",
-        "Television",
-        "3 TVs",
-        "Cable TV",
-        "BBQ Gas",
-        "No Pets Accepted",
-        "Wireless Lan"
-      ],
-      "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167162.0.jpg"
     },
     {
       "ref_id": "1225374",
@@ -27709,9 +27669,15 @@
         },
         {
           "checkin": "2027-07-10",
+          "checkout": "2027-07-31",
+          "status": "Available",
+          "avg_rate": 3595.0
+        },
+        {
+          "checkin": "2027-08-21",
           "checkout": "2027-09-25",
           "status": "Available",
-          "avg_rate": 2976.81
+          "avg_rate": 2355.0
         }
       ],
       "rates": [
@@ -28035,6 +28001,30 @@
           "checkout": "2026-11-07",
           "status": "Available",
           "avg_rate": 2300.0
+        },
+        {
+          "checkin": "2027-06-26",
+          "checkout": "2027-07-03",
+          "status": "Available",
+          "avg_rate": 8200.0
+        },
+        {
+          "checkin": "2027-07-17",
+          "checkout": "2027-07-24",
+          "status": "Available",
+          "avg_rate": 8300.0
+        },
+        {
+          "checkin": "2027-08-21",
+          "checkout": "2027-09-11",
+          "status": "Available",
+          "avg_rate": 5166.66
+        },
+        {
+          "checkin": "2027-09-18",
+          "checkout": "2027-11-06",
+          "status": "Available",
+          "avg_rate": 2557.14
         }
       ],
       "rates": [
@@ -28094,6 +28084,16 @@
           "rate": 328.57
         },
         {
+          "checkin": "2027-05-15",
+          "checkout": "2027-05-22",
+          "rate": 371.42
+        },
+        {
+          "checkin": "2027-05-22",
+          "checkout": "2027-05-29",
+          "rate": 442.85
+        },
+        {
           "checkin": "2027-05-29",
           "checkout": "2027-06-05",
           "rate": 528.57
@@ -28114,9 +28114,29 @@
           "rate": 1042.85
         },
         {
+          "checkin": "2027-06-26",
+          "checkout": "2027-07-03",
+          "rate": 1171.42
+        },
+        {
           "checkin": "2027-07-03",
           "checkout": "2027-07-10",
           "rate": 1157.14
+        },
+        {
+          "checkin": "2027-07-10",
+          "checkout": "2027-07-17",
+          "rate": 1185.71
+        },
+        {
+          "checkin": "2027-07-17",
+          "checkout": "2027-07-24",
+          "rate": 1185.71
+        },
+        {
+          "checkin": "2027-07-24",
+          "checkout": "2027-07-31",
+          "rate": 1185.71
         },
         {
           "checkin": "2027-07-31",
@@ -28129,9 +28149,64 @@
           "rate": 1171.42
         },
         {
+          "checkin": "2027-08-14",
+          "checkout": "2027-08-21",
+          "rate": 1171.42
+        },
+        {
+          "checkin": "2027-08-21",
+          "checkout": "2027-08-28",
+          "rate": 914.28
+        },
+        {
+          "checkin": "2027-08-28",
+          "checkout": "2027-09-04",
+          "rate": 714.28
+        },
+        {
+          "checkin": "2027-09-04",
+          "checkout": "2027-09-11",
+          "rate": 585.71
+        },
+        {
           "checkin": "2027-09-11",
           "checkout": "2027-09-18",
           "rate": 457.14
+        },
+        {
+          "checkin": "2027-09-18",
+          "checkout": "2027-09-25",
+          "rate": 442.85
+        },
+        {
+          "checkin": "2027-09-25",
+          "checkout": "2027-10-02",
+          "rate": 400.0
+        },
+        {
+          "checkin": "2027-10-02",
+          "checkout": "2027-10-09",
+          "rate": 342.85
+        },
+        {
+          "checkin": "2027-10-09",
+          "checkout": "2027-10-16",
+          "rate": 342.85
+        },
+        {
+          "checkin": "2027-10-16",
+          "checkout": "2027-10-23",
+          "rate": 342.85
+        },
+        {
+          "checkin": "2027-10-23",
+          "checkout": "2027-10-30",
+          "rate": 342.85
+        },
+        {
+          "checkin": "2027-10-30",
+          "checkout": "2027-11-06",
+          "rate": 342.85
         }
       ],
       "amenities": [
@@ -29298,6 +29373,11 @@
           "checkin": "2026-09-19",
           "checkout": "2026-09-26",
           "rate": 285.0
+        },
+        {
+          "checkin": "2027-08-21",
+          "checkout": "2027-08-28",
+          "rate": 571.42
         }
       ],
       "amenities": [
@@ -31186,12 +31266,12 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "1 King Bed(s)",
+        "2 Single Bed(s)",
+        "1 Sofa Bed(s)-Double",
+        "Coffee Maker",
         "1 Parking Spaces",
         "2 TVs",
-        "Coffee Maker",
-        "1 Sofa Bed(s)-Double",
-        "2 Single Bed(s)",
-        "1 King Bed(s)",
         "Wireless Lan"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1181/1181861.0.jpg"
@@ -31576,17 +31656,17 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "2 Queen Bed(s)",
+        "5 Single Bed(s)",
+        "1 Sofa Bed(s)-Double",
+        "1 Bunk(s)",
+        "Coffee Maker",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "3 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1 Bunk(s)",
-        "1 Sofa Bed(s)-Double",
-        "5 Single Bed(s)",
-        "2 Queen Bed(s)",
-        "1 King Bed(s)",
         "BBQ Gas",
         "No Pets Accepted",
         "Wireless Lan"
@@ -31625,16 +31705,16 @@
         }
       ],
       "amenities": [
+        "2 Queen Bed(s)",
+        "2 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "3 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1  Sofa Bed(s)-Queen",
-        "2 Single Bed(s)",
-        "2 Queen Bed(s)",
         "BBQ Gas",
         "No Pets Accepted",
         "Wireless Lan"
@@ -31972,10 +32052,10 @@
         }
       ],
       "amenities": [
+        "1  Sofa Bed(s)-Queen",
+        "Coffee Maker",
         "Parking",
         "Television",
-        "Coffee Maker",
-        "1  Sofa Bed(s)-Queen",
         "BBQ Gas",
         "No Pets Accepted",
         "Wireless Lan",
@@ -32184,22 +32264,22 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "4 Single Bed(s)",
+        "Coffee Maker",
         "2 Car Garage",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "1 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "4 Single Bed(s)",
-        "1 Queen Bed(s)",
         "No Pets Accepted",
         "Wireless Lan",
         "Garage",
+        "4 # of Beach Badges",
+        "Beach Equipment",
         "Beach Badges",
         "Smart TV",
-        "Beach Equipment",
-        "4 # of Beach Badges",
         "6 # Beach Chairs",
         "Keurig",
         "TV Streaming Device"
@@ -32258,18 +32338,18 @@
         }
       ],
       "amenities": [
+        "No Pets Accepted",
+        "Wireless Lan",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "1 TVs",
-        "No Pets Accepted",
-        "Wireless Lan",
         "BBQ Gas",
         "Coffee Maker",
         "Free WiFi",
-        "1 Futon(s)",
+        "3 Double Bed(s)",
         "2 Single Bed(s)",
-        "3 Double Bed(s)"
+        "1 Futon(s)"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1168/1168751.0.jpg"
     },
@@ -32305,20 +32385,20 @@
         }
       ],
       "amenities": [
-        "1 Single Bed(s)",
-        "1 Double Bed(s)",
-        "3 Queen Bed(s)",
-        "No Pets Accepted",
-        "Beach Badges",
-        "Wireless Lan",
+        "1 Rollaway(s)",
+        "1 Pyramid Bed(s)",
+        "Coffee Maker",
         "Parking",
         "6 Parking Spaces",
         "Television",
         "4 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1 Pyramid Bed(s)",
-        "1 Rollaway(s)",
+        "No Pets Accepted",
+        "Beach Badges",
+        "Wireless Lan",
+        "3 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "1 Single Bed(s)",
         "8 # of Beach Badges"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167553.0.jpg"
@@ -33076,24 +33156,24 @@
         "Beach Umbrella",
         "Smart TV",
         "4 # Beach Chairs",
-        "Coffee Maker",
-        "1 Futon(s)",
-        "4 Single Bed(s)",
-        "1 Queen Bed(s)",
         "1 King Bed(s)",
+        "1 Queen Bed(s)",
+        "4 Single Bed(s)",
+        "1 Futon(s)",
+        "Coffee Maker",
         "Garage",
         "1 Car Garage",
         "Beach Badges",
         "Keurig",
         "TV Streaming Device",
+        "Pet Free",
+        "Wireless Lan",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "4 TVs",
         "Cable TV",
-        "BBQ Gas",
-        "Pet Free",
-        "Wireless Lan"
+        "BBQ Gas"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167077.0.jpg"
     },
@@ -33252,16 +33332,16 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "4 Single Bed(s)",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "4 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "4 Single Bed(s)",
-        "1 Double Bed(s)",
-        "1 Queen Bed(s)",
         "No Pets Accepted",
         "Wireless Lan"
       ],
@@ -33281,17 +33361,17 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "1 King Bed(s)",
+        "1 Queen Bed(s)",
+        "2 Single Bed(s)",
+        "1 Sofa Bed(s)-Double",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "4 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1 Sofa Bed(s)-Double",
-        "2 Single Bed(s)",
-        "1 Queen Bed(s)",
-        "1 King Bed(s)",
         "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
@@ -35806,14 +35886,14 @@
         }
       ],
       "amenities": [
+        "2 Queen Bed(s)",
+        "2 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "Coffee Maker",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "3 TVs",
-        "Coffee Maker",
-        "1  Sofa Bed(s)-Queen",
-        "2 Single Bed(s)",
-        "2 Queen Bed(s)",
         "No Pets Accepted",
         "Beach Equipment",
         "Wireless Lan",
@@ -35899,15 +35979,15 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "1 Double Bed(s)",
+        "3 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "Coffee Maker",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "3 TVs",
-        "Coffee Maker",
-        "1  Sofa Bed(s)-Queen",
-        "3 Single Bed(s)",
-        "1 Double Bed(s)",
-        "1 King Bed(s)",
         "Cable TV",
         "BBQ Gas",
         "No Pets Accepted",
@@ -38154,10 +38234,10 @@
           "avg_rate": 1425.0
         },
         {
-          "checkin": "2027-07-31",
+          "checkin": "2027-08-07",
           "checkout": "2027-09-11",
           "status": "Available",
-          "avg_rate": 2895.83
+          "avg_rate": 2785.0
         },
         {
           "checkin": "2027-10-09",
@@ -38578,14 +38658,14 @@
         }
       ],
       "amenities": [
+        "2 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "1 Sofa Bed(s)-Double",
+        "Coffee Maker",
         "2 Parking Spaces",
         "Television",
         "3 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1 Sofa Bed(s)-Double",
-        "1 Double Bed(s)",
-        "2 Queen Bed(s)",
         "No Pets Accepted",
         "Wireless Lan"
       ],
@@ -39319,10 +39399,10 @@
           "avg_rate": 5312.5
         },
         {
-          "checkin": "2027-08-14",
+          "checkin": "2027-08-21",
           "checkout": "2027-10-30",
           "status": "Available",
-          "avg_rate": 2322.72
+          "avg_rate": 2005.0
         }
       ],
       "rates": [
@@ -40010,10 +40090,10 @@
         }
       ],
       "amenities": [
-        "Coffee Maker",
-        "2 Single Bed(s)",
-        "2 Double Bed(s)",
         "1 Queen Bed(s)",
+        "2 Double Bed(s)",
+        "2 Single Bed(s)",
+        "Coffee Maker",
         "Parking",
         "1 Parking Spaces",
         "Television",
@@ -42091,9 +42171,15 @@
         },
         {
           "checkin": "2027-08-07",
+          "checkout": "2027-08-21",
+          "status": "Available",
+          "avg_rate": 7400.0
+        },
+        {
+          "checkin": "2027-08-28",
           "checkout": "2028-01-01",
           "status": "Available",
-          "avg_rate": 3414.28
+          "avg_rate": 2833.33
         }
       ],
       "rates": [
@@ -43360,7 +43446,7 @@
         "TV Streaming Device",
         "Beach Chairs",
         "Beach Umbrella",
-        "Smart TV",
+        "StreamingServices",
         "8 # Beach Chairs",
         "BeachCart"
       ],
@@ -44479,18 +44565,18 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "2 Queen Bed(s)",
+        "4 Single Bed(s)",
+        "1 Trundle(s)",
+        "2 Rollaway(s)",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "4 Parking Spaces",
         "Television",
         "5 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "2 Rollaway(s)",
-        "1 Trundle(s)",
-        "4 Single Bed(s)",
-        "2 Queen Bed(s)",
-        "1 King Bed(s)",
         "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
@@ -45043,11 +45129,11 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "1 Queen Bed(s)",
+        "1  Sofa Bed(s)-Queen",
         "2 Parking Spaces",
         "Television",
         "2 TVs",
-        "1  Sofa Bed(s)-Queen",
-        "1 Queen Bed(s)",
         "No Pets Accepted"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167264.0.jpg"
@@ -45857,12 +45943,12 @@
         }
       ],
       "amenities": [
+        "2 Queen Bed(s)",
+        "2 Single Bed(s)",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "4 TVs",
-        "2 Single Bed(s)",
-        "2 Queen Bed(s)",
         "No Pets Accepted",
         "Wireless Lan",
         "Keurig"
@@ -45883,15 +45969,9 @@
       "availability": [
         {
           "checkin": "2026-09-12",
-          "checkout": "2026-09-19",
-          "status": "Available",
-          "avg_rate": 1850.0
-        },
-        {
-          "checkin": "2026-09-26",
           "checkout": "2026-10-03",
           "status": "Available",
-          "avg_rate": 1650.0
+          "avg_rate": 1716.66
         }
       ],
       "rates": [
@@ -50900,12 +50980,12 @@
         "2 Bunk(s)",
         "1 Pyramid Bed(s)",
         "Coffee Maker",
-        "Cable TV",
-        "5 TVs",
-        "Television",
-        "1 Parking Spaces",
-        "Parking",
         "Garage",
+        "Parking",
+        "1 Parking Spaces",
+        "Television",
+        "5 TVs",
+        "Cable TV",
         "No Pets Accepted",
         "Wireless Lan"
       ],
@@ -50931,19 +51011,19 @@
         }
       ],
       "amenities": [
+        "2 King Bed(s)",
+        "2 Queen Bed(s)",
+        "4 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "2 Bunk(s)",
+        "1 Pyramid Bed(s)",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "8 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1 Pyramid Bed(s)",
-        "2 Bunk(s)",
-        "1  Sofa Bed(s)-Queen",
-        "4 Single Bed(s)",
-        "2 Queen Bed(s)",
-        "2 King Bed(s)",
         "No Pets Accepted",
         "Wireless Lan"
       ],
@@ -51579,10 +51659,10 @@
           "avg_rate": 6100.0
         },
         {
-          "checkin": "2027-08-07",
+          "checkin": "2027-08-14",
           "checkout": "2027-09-25",
           "status": "Available",
-          "avg_rate": 3452.85
+          "avg_rate": 3103.33
         }
       ],
       "rates": [
@@ -52449,19 +52529,19 @@
       ],
       "amenities": [
         "Keurig",
-        "2 Single Bed(s)",
-        "2 Double Bed(s)",
         "2 Queen Bed(s)",
+        "2 Double Bed(s)",
+        "2 Single Bed(s)",
         "Wireless Lan",
+        "2 Pyramid Bed(s)",
+        "Coffee Maker",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "4 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "2 Pyramid Bed(s)",
-        "Pets Considered",
-        "Pets Accepted"
+        "Pets Accepted",
+        "Pets Considered"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1166/1166040.0.jpg"
     },
@@ -52635,17 +52715,17 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "2 Queen Bed(s)",
+        "6 Single Bed(s)",
+        "2 Bunk(s)",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "3 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "2 Bunk(s)",
-        "6 Single Bed(s)",
-        "2 Queen Bed(s)",
-        "1 King Bed(s)",
         "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
@@ -52675,10 +52755,10 @@
           "avg_rate": 7000.0
         },
         {
-          "checkin": "2027-08-01",
+          "checkin": "2027-08-07",
           "checkout": "2027-09-11",
           "status": "Available",
-          "avg_rate": 7250.0
+          "avg_rate": 7200.0
         }
       ],
       "rates": [
@@ -52759,17 +52839,17 @@
         }
       ],
       "amenities": [
+        "1 King Bed(s)",
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "4 Single Bed(s)",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "5 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "4 Single Bed(s)",
-        "1 Double Bed(s)",
-        "1 Queen Bed(s)",
-        "1 King Bed(s)",
         "BBQ Gas",
         "No Pets Accepted",
         "Wireless Lan",
@@ -53341,6 +53421,11 @@
           "checkin": "2027-07-24",
           "checkout": "2027-07-31",
           "rate": 642.71
+        },
+        {
+          "checkin": "2027-08-14",
+          "checkout": "2027-08-21",
+          "rate": 542.71
         }
       ],
       "amenities": [
@@ -55062,12 +55147,35 @@
       "baths": "2",
       "half_baths": "0",
       "sleeps": "8",
-      "availability": [],
+      "availability": [
+        {
+          "checkin": "2026-10-01",
+          "checkout": "2026-10-10",
+          "status": "Available",
+          "avg_rate": 1225.0
+        },
+        {
+          "checkin": "2027-04-30",
+          "checkout": "2027-05-01",
+          "status": "Available",
+          "avg_rate": 1900.0
+        }
+      ],
       "rates": [
         {
           "checkin": "2027-07-24",
           "checkout": "2027-07-31",
           "rate": 300.0
+        },
+        {
+          "checkin": "2026-10-01",
+          "checkout": "2026-11-01",
+          "rate": 39.51
+        },
+        {
+          "checkin": "2026-11-01",
+          "checkout": "2027-05-01",
+          "rate": 63.33
         }
       ],
       "amenities": [
@@ -55249,9 +55357,15 @@
         },
         {
           "checkin": "2027-08-14",
+          "checkout": "2027-08-21",
+          "status": "Available",
+          "avg_rate": 7200.0
+        },
+        {
+          "checkin": "2027-08-28",
           "checkout": "2028-01-01",
           "status": "Available",
-          "avg_rate": 3295.0
+          "avg_rate": 2916.66
         }
       ],
       "rates": [
@@ -55676,6 +55790,11 @@
           "checkin": "2027-06-05",
           "checkout": "2027-06-12",
           "rate": 571.42
+        },
+        {
+          "checkin": "2027-07-17",
+          "checkout": "2027-07-24",
+          "rate": 942.85
         }
       ],
       "amenities": [
@@ -55728,14 +55847,14 @@
         }
       ],
       "amenities": [
+        "1 Queen Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "Coffee Maker",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "1 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1  Sofa Bed(s)-Queen",
-        "1 Queen Bed(s)",
         "BBQ Gas",
         "No Pets Accepted",
         "Wireless Lan"
@@ -55834,10 +55953,10 @@
           "avg_rate": 16750.0
         },
         {
-          "checkin": "2027-08-14",
+          "checkin": "2027-08-21",
           "checkout": "2028-01-01",
           "status": "Available",
-          "avg_rate": 6175.0
+          "avg_rate": 5842.1
         }
       ],
       "rates": [
@@ -56434,19 +56553,19 @@
           "checkin": "2027-04-17",
           "checkout": "2027-06-05",
           "status": "Available",
-          "avg_rate": 1509.28
+          "avg_rate": 1592.85
         },
         {
           "checkin": "2027-06-12",
           "checkout": "2027-07-24",
           "status": "Available",
-          "avg_rate": 3345.0
+          "avg_rate": 3683.33
         },
         {
           "checkin": "2027-08-14",
           "checkout": "2027-11-13",
           "status": "Available",
-          "avg_rate": 2318.07
+          "avg_rate": 2265.38
         }
       ],
       "rates": [
@@ -56513,152 +56632,132 @@
         {
           "checkin": "2027-04-17",
           "checkout": "2027-04-24",
-          "rate": 142.14
+          "rate": 150.0
         },
         {
           "checkin": "2027-04-24",
           "checkout": "2027-05-01",
-          "rate": 170.71
+          "rate": 178.57
         },
         {
           "checkin": "2027-05-01",
           "checkout": "2027-05-08",
-          "rate": 185.0
+          "rate": 192.85
         },
         {
           "checkin": "2027-05-08",
           "checkout": "2027-05-15",
-          "rate": 199.28
+          "rate": 207.14
         },
         {
           "checkin": "2027-05-15",
           "checkout": "2027-05-22",
-          "rate": 227.85
+          "rate": 235.71
         },
         {
           "checkin": "2027-05-22",
           "checkout": "2027-05-29",
-          "rate": 285.0
+          "rate": 292.85
         },
         {
           "checkin": "2027-05-29",
           "checkout": "2027-06-05",
-          "rate": 299.28
-        },
-        {
-          "checkin": "2027-06-05",
-          "checkout": "2027-06-12",
-          "rate": 327.85
+          "rate": 335.71
         },
         {
           "checkin": "2027-06-12",
           "checkout": "2027-06-19",
-          "rate": 370.71
+          "rate": 407.14
         },
         {
           "checkin": "2027-06-19",
           "checkout": "2027-06-26",
-          "rate": 427.85
+          "rate": 550.0
         },
         {
           "checkin": "2027-06-26",
           "checkout": "2027-07-03",
-          "rate": 485.0
+          "rate": 550.0
         },
         {
           "checkin": "2027-07-03",
           "checkout": "2027-07-10",
-          "rate": 527.85
+          "rate": 550.0
         },
         {
           "checkin": "2027-07-10",
           "checkout": "2027-07-17",
-          "rate": 527.85
+          "rate": 550.0
         },
         {
           "checkin": "2027-07-17",
           "checkout": "2027-07-24",
-          "rate": 527.85
-        },
-        {
-          "checkin": "2027-07-24",
-          "checkout": "2027-07-31",
-          "rate": 527.85
-        },
-        {
-          "checkin": "2027-07-31",
-          "checkout": "2027-08-07",
-          "rate": 542.14
-        },
-        {
-          "checkin": "2027-08-07",
-          "checkout": "2027-08-14",
-          "rate": 542.14
+          "rate": 550.0
         },
         {
           "checkin": "2027-08-14",
           "checkout": "2027-08-21",
-          "rate": 527.85
+          "rate": 550.0
         },
         {
           "checkin": "2027-08-21",
           "checkout": "2027-08-28",
-          "rate": 456.42
+          "rate": 464.28
         },
         {
           "checkin": "2027-08-28",
           "checkout": "2027-09-04",
-          "rate": 442.14
+          "rate": 450.0
         },
         {
           "checkin": "2027-09-04",
           "checkout": "2027-09-11",
-          "rate": 442.14
+          "rate": 378.57
         },
         {
           "checkin": "2027-09-11",
           "checkout": "2027-09-18",
-          "rate": 356.42
+          "rate": 350.0
         },
         {
           "checkin": "2027-09-18",
           "checkout": "2027-09-25",
-          "rate": 356.42
+          "rate": 335.71
         },
         {
           "checkin": "2027-09-25",
           "checkout": "2027-10-02",
-          "rate": 299.28
+          "rate": 292.85
         },
         {
           "checkin": "2027-10-02",
           "checkout": "2027-10-09",
-          "rate": 256.42
+          "rate": 250.0
         },
         {
           "checkin": "2027-10-09",
           "checkout": "2027-10-16",
-          "rate": 256.42
+          "rate": 250.0
         },
         {
           "checkin": "2027-10-16",
           "checkout": "2027-10-23",
-          "rate": 256.42
+          "rate": 250.0
         },
         {
           "checkin": "2027-10-23",
           "checkout": "2027-10-30",
-          "rate": 227.85
+          "rate": 221.42
         },
         {
           "checkin": "2027-10-30",
           "checkout": "2027-11-06",
-          "rate": 227.85
+          "rate": 221.42
         },
         {
           "checkin": "2027-11-06",
           "checkout": "2027-11-13",
-          "rate": 199.28
+          "rate": 192.85
         }
       ],
       "amenities": [
@@ -60653,9 +60752,9 @@
         },
         {
           "checkin": "2027-05-22",
-          "checkout": "2027-06-19",
+          "checkout": "2027-06-12",
           "status": "Available",
-          "avg_rate": 4125.0
+          "avg_rate": 3833.33
         },
         {
           "checkin": "2027-06-26",
@@ -61644,14 +61743,14 @@
         }
       ],
       "amenities": [
+        "2 Queen Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "Coffee Maker",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "1 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1  Sofa Bed(s)-Queen",
-        "2 Queen Bed(s)",
         "BBQ Gas",
         "No Pets Accepted",
         "Wireless Lan"
@@ -62340,20 +62439,20 @@
         }
       ],
       "amenities": [
+        "TV Streaming Device",
+        "Free WiFi",
+        "4 # of Beach Badges",
         "1 Queen Bed(s)",
         "1  Sofa Bed(s)-Queen",
         "Coffee Maker",
+        "Beach Badges",
+        "Wireless Lan",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
-        "No Pets Accepted",
-        "Beach Badges",
-        "Wireless Lan",
-        "TV Streaming Device",
-        "4 # of Beach Badges",
-        "Free WiFi"
+        "No Pets Accepted"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165056.0.jpg"
     },
@@ -63054,6 +63153,8 @@
         }
       ],
       "amenities": [
+        "Keurig",
+        "6 # of Beach Badges",
         "2 Queen Bed(s)",
         "4 Single Bed(s)",
         "1  Sofa Bed(s)-Queen",
@@ -63065,9 +63166,7 @@
         "Cable TV",
         "No Pets Accepted",
         "Beach Badges",
-        "Wireless Lan",
-        "Keurig",
-        "6 # of Beach Badges"
+        "Wireless Lan"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167093.0.jpg"
     },
@@ -63478,18 +63577,18 @@
         }
       ],
       "amenities": [
-        "1 Queen Bed(s)",
-        "1  Sofa Bed(s)-Queen",
-        "Coffee Maker",
+        "Wireless Lan",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "2 TVs",
         "Cable TV",
+        "1 Queen Bed(s)",
+        "Coffee Maker",
+        "1  Sofa Bed(s)-Queen",
         "No Pets Accepted",
-        "Beach Badges",
-        "Wireless Lan",
-        "4 # of Beach Badges"
+        "4 # of Beach Badges",
+        "Beach Badges"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167488.0.jpg"
     },
@@ -63681,10 +63780,10 @@
           "avg_rate": 5200.0
         },
         {
-          "checkin": "2027-08-28",
+          "checkin": "2027-08-21",
           "checkout": "2028-01-01",
           "status": "Available",
-          "avg_rate": 1502.77
+          "avg_rate": 1597.36
         }
       ],
       "rates": [
@@ -64160,7 +64259,7 @@
       ],
       "rates": [
         {
-          "checkin": "2026-08-24",
+          "checkin": "2026-08-25",
           "checkout": "2026-08-29",
           "rate": 3450.0
         },
@@ -67900,6 +67999,12 @@
           "avg_rate": 3000.0
         },
         {
+          "checkin": "2027-01-02",
+          "checkout": "2027-06-19",
+          "status": "Available",
+          "avg_rate": 3458.33
+        },
+        {
           "checkin": "2027-07-10",
           "checkout": "2027-07-17",
           "status": "Available",
@@ -67907,9 +68012,9 @@
         },
         {
           "checkin": "2027-07-24",
-          "checkout": "2027-09-11",
+          "checkout": "2028-01-01",
           "status": "Available",
-          "avg_rate": 7285.71
+          "avg_rate": 4739.13
         }
       ],
       "rates": [
@@ -68004,6 +68109,126 @@
           "rate": 428.57
         },
         {
+          "checkin": "2027-01-02",
+          "checkout": "2027-01-09",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-01-09",
+          "checkout": "2027-01-16",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-01-16",
+          "checkout": "2027-01-23",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-01-23",
+          "checkout": "2027-01-30",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-01-30",
+          "checkout": "2027-02-06",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-02-06",
+          "checkout": "2027-02-13",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-02-13",
+          "checkout": "2027-02-20",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-02-20",
+          "checkout": "2027-02-27",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-02-27",
+          "checkout": "2027-03-06",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-03-06",
+          "checkout": "2027-03-13",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-03-13",
+          "checkout": "2027-03-20",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-03-20",
+          "checkout": "2027-03-27",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-03-27",
+          "checkout": "2027-04-03",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-04-03",
+          "checkout": "2027-04-10",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-04-10",
+          "checkout": "2027-04-17",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-04-17",
+          "checkout": "2027-04-24",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-04-24",
+          "checkout": "2027-05-01",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-05-01",
+          "checkout": "2027-05-08",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-05-08",
+          "checkout": "2027-05-15",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-05-15",
+          "checkout": "2027-05-22",
+          "rate": 571.42
+        },
+        {
+          "checkin": "2027-05-22",
+          "checkout": "2027-05-29",
+          "rate": 642.85
+        },
+        {
+          "checkin": "2027-05-29",
+          "checkout": "2027-06-05",
+          "rate": 714.28
+        },
+        {
+          "checkin": "2027-06-05",
+          "checkout": "2027-06-12",
+          "rate": 785.71
+        },
+        {
+          "checkin": "2027-06-12",
+          "checkout": "2027-06-19",
+          "rate": 928.57
+        },
+        {
           "checkin": "2027-06-19",
           "checkout": "2027-06-26",
           "rate": 1000.0
@@ -68016,7 +68241,7 @@
         {
           "checkin": "2027-07-03",
           "checkout": "2027-07-10",
-          "rate": 1142.85
+          "rate": 1178.57
         },
         {
           "checkin": "2027-07-10",
@@ -68062,6 +68287,86 @@
           "checkin": "2027-09-04",
           "checkout": "2027-09-11",
           "rate": 785.71
+        },
+        {
+          "checkin": "2027-09-11",
+          "checkout": "2027-09-18",
+          "rate": 714.28
+        },
+        {
+          "checkin": "2027-09-18",
+          "checkout": "2027-09-25",
+          "rate": 571.42
+        },
+        {
+          "checkin": "2027-09-25",
+          "checkout": "2027-10-02",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-10-02",
+          "checkout": "2027-10-09",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-10-09",
+          "checkout": "2027-10-16",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-10-16",
+          "checkout": "2027-10-23",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-10-23",
+          "checkout": "2027-10-30",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-10-30",
+          "checkout": "2027-11-06",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-11-06",
+          "checkout": "2027-11-13",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-11-13",
+          "checkout": "2027-11-20",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-11-20",
+          "checkout": "2027-11-27",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-11-27",
+          "checkout": "2027-12-04",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-12-04",
+          "checkout": "2027-12-11",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-12-11",
+          "checkout": "2027-12-18",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-12-18",
+          "checkout": "2027-12-25",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-12-25",
+          "checkout": "2028-01-01",
+          "rate": 500.0
         }
       ],
       "amenities": [
@@ -69475,13 +69780,13 @@
       "sleeps": "4",
       "availability": [
         {
-          "checkin": "2026-10-03",
+          "checkin": "2026-10-10",
           "checkout": "2027-06-12",
           "status": "Available",
-          "avg_rate": 965.0
+          "avg_rate": 961.14
         },
         {
-          "checkin": "2027-08-07",
+          "checkin": "2027-08-14",
           "checkout": "2027-08-21",
           "status": "Available",
           "avg_rate": 2600.0
@@ -70819,9 +71124,15 @@
         },
         {
           "checkin": "2026-10-10",
+          "checkout": "2027-08-07",
+          "status": "Available",
+          "avg_rate": 1031.74
+        },
+        {
+          "checkin": "2027-08-14",
           "checkout": "2027-12-25",
           "status": "Available",
-          "avg_rate": 1210.27
+          "avg_rate": 2221.05
         }
       ],
       "rates": [
@@ -71490,6 +71801,36 @@
           "checkout": "2026-10-31",
           "status": "Available",
           "avg_rate": 2300.0
+        },
+        {
+          "checkin": "2027-05-01",
+          "checkout": "2027-05-29",
+          "status": "Available",
+          "avg_rate": 2500.0
+        },
+        {
+          "checkin": "2027-07-17",
+          "checkout": "2027-07-24",
+          "status": "Available",
+          "avg_rate": 8000.0
+        },
+        {
+          "checkin": "2027-08-07",
+          "checkout": "2027-08-14",
+          "status": "Available",
+          "avg_rate": 8000.0
+        },
+        {
+          "checkin": "2027-09-04",
+          "checkout": "2027-10-09",
+          "status": "Available",
+          "avg_rate": 3100.0
+        },
+        {
+          "checkin": "2027-10-16",
+          "checkout": "2027-11-06",
+          "status": "Available",
+          "avg_rate": 2300.0
         }
       ],
       "rates": [
@@ -71544,6 +71885,31 @@
           "rate": 328.57
         },
         {
+          "checkin": "2027-05-01",
+          "checkout": "2027-05-08",
+          "rate": 328.57
+        },
+        {
+          "checkin": "2027-05-08",
+          "checkout": "2027-05-15",
+          "rate": 328.57
+        },
+        {
+          "checkin": "2027-05-15",
+          "checkout": "2027-05-22",
+          "rate": 357.14
+        },
+        {
+          "checkin": "2027-05-22",
+          "checkout": "2027-05-29",
+          "rate": 414.28
+        },
+        {
+          "checkin": "2027-05-29",
+          "checkout": "2027-06-05",
+          "rate": 514.28
+        },
+        {
           "checkin": "2027-06-05",
           "checkout": "2027-06-12",
           "rate": 707.14
@@ -71574,6 +71940,26 @@
           "rate": 1142.85
         },
         {
+          "checkin": "2027-07-17",
+          "checkout": "2027-07-24",
+          "rate": 1142.85
+        },
+        {
+          "checkin": "2027-07-24",
+          "checkout": "2027-07-31",
+          "rate": 1142.85
+        },
+        {
+          "checkin": "2027-07-31",
+          "checkout": "2027-08-07",
+          "rate": 1142.85
+        },
+        {
+          "checkin": "2027-08-07",
+          "checkout": "2027-08-14",
+          "rate": 1142.85
+        },
+        {
           "checkin": "2027-08-14",
           "checkout": "2027-08-21",
           "rate": 1142.85
@@ -71589,8 +71975,48 @@
           "rate": 714.28
         },
         {
+          "checkin": "2027-09-04",
+          "checkout": "2027-09-11",
+          "rate": 571.42
+        },
+        {
+          "checkin": "2027-09-11",
+          "checkout": "2027-09-18",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-09-18",
+          "checkout": "2027-09-25",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-09-25",
+          "checkout": "2027-10-02",
+          "rate": 385.71
+        },
+        {
+          "checkin": "2027-10-02",
+          "checkout": "2027-10-09",
+          "rate": 328.57
+        },
+        {
           "checkin": "2027-10-09",
           "checkout": "2027-10-16",
+          "rate": 328.57
+        },
+        {
+          "checkin": "2027-10-16",
+          "checkout": "2027-10-23",
+          "rate": 328.57
+        },
+        {
+          "checkin": "2027-10-23",
+          "checkout": "2027-10-30",
+          "rate": 328.57
+        },
+        {
+          "checkin": "2027-10-30",
+          "checkout": "2027-11-06",
           "rate": 328.57
         }
       ],
@@ -72020,9 +72446,15 @@
         },
         {
           "checkin": "2026-09-26",
+          "checkout": "2027-08-07",
+          "status": "Available",
+          "avg_rate": 2651.42
+        },
+        {
+          "checkin": "2027-08-14",
           "checkout": "2027-10-30",
           "status": "Available",
-          "avg_rate": 2663.82
+          "avg_rate": 2490.9
         }
       ],
       "rates": [
@@ -72673,6 +73105,13 @@
         }
       ],
       "amenities": [
+        "2 King Bed(s)",
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "5 Single Bed(s)",
+        "1 Bunk(s)",
+        "1 Pyramid Bed(s)",
+        "Coffee Maker",
         "Garage",
         "1 Car Garage",
         "Parking",
@@ -72680,13 +73119,6 @@
         "Television",
         "3 TVs",
         "Cable TV",
-        "Coffee Maker",
-        "1 Pyramid Bed(s)",
-        "1 Bunk(s)",
-        "5 Single Bed(s)",
-        "1 Double Bed(s)",
-        "1 Queen Bed(s)",
-        "2 King Bed(s)",
         "No Pets Accepted",
         "Wireless Lan",
         "Keurig",
@@ -73456,12 +73888,6 @@
           "avg_rate": 7450.0
         },
         {
-          "checkin": "2027-07-31",
-          "checkout": "2027-08-14",
-          "status": "Available",
-          "avg_rate": 7450.0
-        },
-        {
           "checkin": "2027-08-21",
           "checkout": "2027-10-02",
           "status": "Available",
@@ -73912,12 +74338,6 @@
       "sleeps": "12",
       "availability": [
         {
-          "checkin": "2026-09-12",
-          "checkout": "2026-09-19",
-          "status": "Available",
-          "avg_rate": 4000.0
-        },
-        {
           "checkin": "2026-09-26",
           "checkout": "2026-10-31",
           "status": "Available",
@@ -73925,9 +74345,15 @@
         },
         {
           "checkin": "2027-05-15",
+          "checkout": "2027-05-22",
+          "status": "Available",
+          "avg_rate": 4000.0
+        },
+        {
+          "checkin": "2027-05-29",
           "checkout": "2027-06-19",
           "status": "Available",
-          "avg_rate": 5500.0
+          "avg_rate": 6333.33
         },
         {
           "checkin": "2027-06-26",
@@ -74096,28 +74522,28 @@
         }
       ],
       "amenities": [
-        "6 # Beach Chairs",
-        "Smart TV",
-        "5# of Smart TVs",
-        "1 Pyramid Bed(s)-Full",
-        "Beach Equipment",
-        "Beach Chairs",
-        "Beach Umbrella",
-        "TV Streaming Device",
-        "Cable TV (Expanded)",
-        "Wireless Lan",
+        "2 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "3 Single Bed(s)",
+        "1 Sofa Bed(s)-Single",
+        "1 Sofa Bed(s)-Double",
+        "Coffee Maker",
         "Garage",
         "2 Car Garage",
         "Parking",
         "3 Parking Spaces",
         "Cable TV",
         "No Pets Accepted",
-        "2 Queen Bed(s)",
-        "1 Double Bed(s)",
-        "3 Single Bed(s)",
-        "1 Sofa Bed(s)-Single",
-        "1 Sofa Bed(s)-Double",
-        "Coffee Maker"
+        "Beach Equipment",
+        "Wireless Lan",
+        "TV Streaming Device",
+        "Cable TV (Expanded)",
+        "Beach Chairs",
+        "Beach Umbrella",
+        "Smart TV",
+        "5# of Smart TVs",
+        "1 Pyramid Bed(s)-Full",
+        "6 # Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1162/1162616.0.jpg"
     },
@@ -74733,27 +75159,27 @@
         }
       ],
       "amenities": [
+        "Beach Chairs",
+        "Free WiFi",
+        "8 # Beach Chairs",
+        "Coffee Maker",
+        "Garage",
+        "Television",
+        "Pets Accepted",
+        "Pets Considered",
+        "Wireless Lan",
+        "BBQ Gas",
+        "4 TVs",
+        "Cable TV",
+        "Parking",
+        "1 Parking Spaces",
         "1 King Bed(s)",
         "1 Queen Bed(s)",
         "1 Double Bed(s)",
         "3 Single Bed(s)",
         "1  Sofa Bed(s)-Queen",
         "1 Bunk(s)",
-        "1 Trundle(s)",
-        "Coffee Maker",
-        "Garage",
-        "Parking",
-        "1 Parking Spaces",
-        "Television",
-        "4 TVs",
-        "Cable TV",
-        "BBQ Gas",
-        "Pets Accepted",
-        "Wireless Lan",
-        "Pets Considered",
-        "Beach Chairs",
-        "Free WiFi",
-        "8 # Beach Chairs"
+        "1 Trundle(s)"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1162/1162287.0.jpg"
     },
@@ -74906,25 +75332,25 @@
         }
       ],
       "amenities": [
-        "1 King Bed(s)",
-        "3 Queen Bed(s)",
-        "2 Single Bed(s)",
-        "1 Trundle(s)",
-        "1 Rollaway(s)",
-        "1 Pyramid Bed(s)",
-        "Coffee Maker",
+        "Beach Equipment",
         "Garage",
         "Parking",
         "1 Parking Spaces",
         "Television",
         "5 TVs",
         "No Pets Accepted",
-        "Beach Equipment",
         "Wireless Lan",
         "Keurig",
         "Beach Umbrella",
         "Smart TV",
-        "1 Day Bed(s)-Queen"
+        "1 Day Bed(s)-Queen",
+        "1 King Bed(s)",
+        "3 Queen Bed(s)",
+        "2 Single Bed(s)",
+        "1 Trundle(s)",
+        "1 Rollaway(s)",
+        "1 Pyramid Bed(s)",
+        "Coffee Maker"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167174.0.jpg"
     },
@@ -75341,12 +75767,13 @@
         }
       ],
       "amenities": [
+        "No Pets Accepted",
+        "Beach Badges",
+        "8 # of Beach Badges",
+        "Beach Umbrella",
+        "Smart TV",
+        "2# of Smart TVs",
         "2 King Bed(s)",
-        "2 Queen Bed(s)",
-        "1 Double Bed(s)",
-        "3 Single Bed(s)",
-        "1  Sofa Bed(s)-Queen",
-        "1 Pyramid Bed(s)",
         "Garage",
         "1 Car Garage",
         "Parking",
@@ -75354,16 +75781,15 @@
         "Television",
         "7 TVs",
         "Cable TV",
-        "No Pets Accepted",
-        "Beach Equipment",
-        "Beach Badges",
         "Wireless Lan",
+        "1 Pyramid Bed(s)",
+        "2 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "3 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "Beach Equipment",
         "Keurig",
-        "8 # of Beach Badges",
-        "Beach Chairs",
-        "Beach Umbrella",
-        "Smart TV",
-        "2# of Smart TVs"
+        "Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165358.0.jpg"
     },
@@ -75398,10 +75824,10 @@
           "avg_rate": 3600.0
         },
         {
-          "checkin": "2027-08-07",
+          "checkin": "2027-08-21",
           "checkout": "2027-09-25",
           "status": "Available",
-          "avg_rate": 2614.28
+          "avg_rate": 2280.0
         }
       ],
       "rates": [
@@ -75606,10 +76032,10 @@
           "avg_rate": 2750.0
         },
         {
-          "checkin": "2027-08-14",
+          "checkin": "2027-08-21",
           "checkout": "2027-09-04",
           "status": "Available",
-          "avg_rate": 2116.66
+          "avg_rate": 1875.0
         },
         {
           "checkin": "2027-09-18",
@@ -75741,29 +76167,29 @@
         }
       ],
       "amenities": [
+        "6 # of Beach Badges",
+        "Smart TV",
+        "StreamingServices",
+        "5 # Beach Chairs",
+        "Beach Chairs",
+        "Beach Umbrella",
         "2 Queen Bed(s)",
         "1 Double Bed(s)",
         "1 Single Bed(s)",
         "1 Rollaway(s)",
         "1 Pyramid Bed(s)",
         "Coffee Maker",
-        "Garage",
-        "Parking",
-        "1 Parking Spaces",
-        "Television",
-        "4 TVs",
-        "BBQ Gas",
         "No Pets Accepted",
         "Beach Equipment",
+        "Garage",
         "Beach Badges",
         "Wireless Lan",
         "Keurig",
-        "6 # of Beach Badges",
-        "Beach Chairs",
-        "Beach Umbrella",
-        "Smart TV",
-        "StreamingServices",
-        "5 # Beach Chairs"
+        "4 TVs",
+        "BBQ Gas",
+        "1 Parking Spaces",
+        "Television",
+        "Parking"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1160/1160825.0.jpg"
     },
@@ -76162,17 +76588,17 @@
         }
       ],
       "amenities": [
+        "4 # of Beach Badges",
+        "Parking",
+        "No Pets Accepted",
+        "Coffee Maker",
         "2 Single Bed(s)",
         "1  Sofa Bed(s)-Queen",
-        "Coffee Maker",
-        "Parking",
         "1 Parking Spaces",
         "Television",
-        "2 TVs",
-        "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
-        "4 # of Beach Badges"
+        "2 TVs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167457.0.jpg"
     },
@@ -76311,16 +76737,16 @@
         "2 Trundle(s)",
         "2 Day Bed(s)",
         "Coffee Maker",
+        "BBQ Gas",
         "Garage",
         "Parking",
         "4 Parking Spaces",
         "Television",
         "3 TVs",
         "Cable TV",
-        "BBQ Gas",
-        "No Pets Accepted",
-        "Beach Badges",
         "Wireless Lan",
+        "Beach Badges",
+        "No Pets Accepted",
         "TV Streaming Device",
         "4 # of Beach Badges",
         "Smart TV",
@@ -76523,22 +76949,22 @@
         }
       ],
       "amenities": [
-        "2 Queen Bed(s)",
-        "3 Single Bed(s)",
-        "1  Sofa Bed(s)-Queen",
         "1 Bunk(s)",
-        "Coffee Maker",
+        "Smart TV",
+        "Keurig",
+        "Beach Badges",
+        "Wireless Lan",
+        "No Pets Accepted",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "2 TVs",
-        "No Pets Accepted",
-        "Beach Badges",
-        "Wireless Lan",
-        "Keurig",
-        "2 # of Beach Badges",
-        "Smart TV"
+        "2 Queen Bed(s)",
+        "3 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "Coffee Maker",
+        "2 # of Beach Badges"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1165/1165677.0.jpg"
     },
@@ -76957,7 +77383,7 @@
           "checkin": "2026-08-29",
           "checkout": "2026-10-24",
           "status": "Available",
-          "avg_rate": 3081.25
+          "avg_rate": 2581.25
         }
       ],
       "rates": [
@@ -76969,7 +77395,7 @@
         {
           "checkin": "2026-08-29",
           "checkout": "2026-09-05",
-          "rate": 600.0
+          "rate": 500.0
         },
         {
           "checkin": "2026-09-05",
@@ -76979,32 +77405,32 @@
         {
           "checkin": "2026-09-12",
           "checkout": "2026-09-19",
-          "rate": 478.57
+          "rate": 407.14
         },
         {
           "checkin": "2026-09-19",
           "checkout": "2026-09-26",
-          "rate": 442.85
+          "rate": 371.42
         },
         {
           "checkin": "2026-09-26",
           "checkout": "2026-10-03",
-          "rate": 407.14
+          "rate": 335.71
         },
         {
           "checkin": "2026-10-03",
           "checkout": "2026-10-10",
-          "rate": 371.42
+          "rate": 285.71
         },
         {
           "checkin": "2026-10-10",
           "checkout": "2026-10-17",
-          "rate": 371.42
+          "rate": 285.71
         },
         {
           "checkin": "2026-10-17",
           "checkout": "2026-10-24",
-          "rate": 371.42
+          "rate": 285.71
         },
         {
           "checkin": "2027-07-10",
@@ -77043,20 +77469,20 @@
           "checkin": "2026-08-08",
           "checkout": "2026-08-29",
           "status": "Available",
-          "avg_rate": 4283.33
+          "avg_rate": 4116.66
         },
         {
           "checkin": "2026-09-12",
           "checkout": "2026-10-24",
           "status": "Available",
-          "avg_rate": 1825.0
+          "avg_rate": 1758.33
         }
       ],
       "rates": [
         {
           "checkin": "2026-08-22",
           "checkout": "2026-08-29",
-          "rate": 571.42
+          "rate": 500.0
         },
         {
           "checkin": "2026-08-29",
@@ -77071,7 +77497,7 @@
         {
           "checkin": "2026-09-12",
           "checkout": "2026-09-19",
-          "rate": 335.71
+          "rate": 278.57
         },
         {
           "checkin": "2026-09-19",
@@ -77184,12 +77610,6 @@
         }
       ],
       "amenities": [
-        "1 Queen Bed(s)",
-        "1 Double Bed(s)",
-        "2 Single Bed(s)",
-        "1 Bunk(s)",
-        "1 Futon(s)",
-        "Coffee Maker",
         "Parking",
         "1 Parking Spaces",
         "Television",
@@ -77199,6 +77619,12 @@
         "Wireless Lan",
         "Pets Considered",
         "Keurig",
+        "Coffee Maker",
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "2 Single Bed(s)",
+        "1 Bunk(s)",
+        "1 Futon(s)",
         "5# of Smart TVs",
         "Free WiFi"
       ],
@@ -77352,9 +77778,15 @@
         },
         {
           "checkin": "2027-06-26",
+          "checkout": "2027-07-03",
+          "status": "Available",
+          "avg_rate": 3775.0
+        },
+        {
+          "checkin": "2027-07-10",
           "checkout": "2028-01-01",
           "status": "Available",
-          "avg_rate": 2101.11
+          "avg_rate": 1967.2
         }
       ],
       "rates": [
@@ -77720,16 +78152,16 @@
         }
       ],
       "amenities": [
-        "No Pets Accepted",
-        "BBQ Gas",
-        "Coffee Maker",
         "3 Queen Bed(s)",
         "11 Single Bed(s)",
         "2 Trundle(s)",
+        "Coffee Maker",
         "Parking",
         "4 Parking Spaces",
         "Television",
         "1 TVs",
+        "BBQ Gas",
+        "No Pets Accepted",
         "Wireless Lan",
         "Keurig"
       ],
@@ -77911,20 +78343,20 @@
         }
       ],
       "amenities": [
-        "Wireless Lan",
-        "Beach Badges",
         "3 Queen Bed(s)",
         "4 Single Bed(s)",
         "1  Sofa Bed(s)-Queen",
         "Coffee Maker",
-        "No Pets Accepted",
-        "5 # of Beach Badges",
         "Garage",
         "2 Parking Spaces",
         "Television",
         "3 TVs",
         "Cable TV",
-        "Keurig"
+        "No Pets Accepted",
+        "Beach Badges",
+        "Wireless Lan",
+        "Keurig",
+        "5 # of Beach Badges"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1163/1163554.0.jpg"
     },
@@ -78356,6 +78788,12 @@
         }
       ],
       "amenities": [
+        "2 King Bed(s)",
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "3 Single Bed(s)",
+        "1 Sofa Bed(s)-Double",
+        "Coffee Maker",
         "Garage",
         "Parking",
         "3 Parking Spaces",
@@ -78364,17 +78802,11 @@
         "Cable TV",
         "No Pets Accepted",
         "Wireless Lan",
-        "1 Sofa Bed(s)-Double",
-        "2 King Bed(s)",
-        "1 Queen Bed(s)",
+        "Beach Chairs",
         "Smart TV",
         "5# of Smart TVs",
         "Free WiFi",
-        "2 Pyramid Bed(s)-Full",
-        "Beach Chairs",
-        "1 Double Bed(s)",
-        "3 Single Bed(s)",
-        "Coffee Maker"
+        "2 Pyramid Bed(s)-Full"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1167/1167135.0.jpg"
     },
@@ -78587,16 +79019,16 @@
         "Garage",
         "Parking",
         "2 Parking Spaces",
-        "Smart TV",
-        "2# of Smart TVs",
-        "6 # of Beach Badges",
-        "Beach Badges",
-        "Keurig",
-        "No Pets Accepted",
         "Television",
         "3 TVs",
         "Cable TV",
-        "Wireless Lan"
+        "No Pets Accepted",
+        "Beach Badges",
+        "Wireless Lan",
+        "Keurig",
+        "6 # of Beach Badges",
+        "Smart TV",
+        "2# of Smart TVs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1155/1155850.0.jpg"
     },
@@ -78614,6 +79046,11 @@
       "availability": [],
       "rates": [],
       "amenities": [
+        "1 King Bed(s)",
+        "2 Queen Bed(s)",
+        "1 Bunk(s)",
+        "1 Trundle(s)",
+        "1 Day Bed(s)",
         "Coffee Maker",
         "Parking",
         "1 Parking Spaces",
@@ -78622,12 +79059,7 @@
         "Pets Accepted",
         "Wireless Lan",
         "Beach Chairs",
-        "Beach Umbrella",
-        "1 King Bed(s)",
-        "2 Queen Bed(s)",
-        "1 Bunk(s)",
-        "1 Trundle(s)",
-        "1 Day Bed(s)"
+        "Beach Umbrella"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1160/1160424.0.jpg"
     },
@@ -80731,16 +81163,22 @@
           "avg_rate": 3083.33
         },
         {
-          "checkin": "2027-07-03",
+          "checkin": "2027-01-02",
+          "checkout": "2027-06-19",
+          "status": "Available",
+          "avg_rate": 3458.33
+        },
+        {
+          "checkin": "2027-06-26",
           "checkout": "2027-07-10",
           "status": "Available",
-          "avg_rate": 8250.0
+          "avg_rate": 7875.0
         },
         {
           "checkin": "2027-08-07",
-          "checkout": "2027-09-11",
+          "checkout": "2028-01-01",
           "status": "Available",
-          "avg_rate": 6900.0
+          "avg_rate": 4404.76
         }
       ],
       "rates": [
@@ -80835,6 +81273,136 @@
           "rate": 428.57
         },
         {
+          "checkin": "2027-01-02",
+          "checkout": "2027-01-09",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-01-09",
+          "checkout": "2027-01-16",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-01-16",
+          "checkout": "2027-01-23",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-01-23",
+          "checkout": "2027-01-30",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-01-30",
+          "checkout": "2027-02-06",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-02-06",
+          "checkout": "2027-02-13",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-02-13",
+          "checkout": "2027-02-20",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-02-20",
+          "checkout": "2027-02-27",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-02-27",
+          "checkout": "2027-03-06",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-03-06",
+          "checkout": "2027-03-13",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-03-13",
+          "checkout": "2027-03-20",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-03-20",
+          "checkout": "2027-03-27",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-03-27",
+          "checkout": "2027-04-03",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-04-03",
+          "checkout": "2027-04-10",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-04-10",
+          "checkout": "2027-04-17",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-04-17",
+          "checkout": "2027-04-24",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-04-24",
+          "checkout": "2027-05-01",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-05-01",
+          "checkout": "2027-05-08",
+          "rate": 428.57
+        },
+        {
+          "checkin": "2027-05-08",
+          "checkout": "2027-05-15",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-05-15",
+          "checkout": "2027-05-22",
+          "rate": 571.42
+        },
+        {
+          "checkin": "2027-05-22",
+          "checkout": "2027-05-29",
+          "rate": 642.85
+        },
+        {
+          "checkin": "2027-05-29",
+          "checkout": "2027-06-05",
+          "rate": 714.28
+        },
+        {
+          "checkin": "2027-06-05",
+          "checkout": "2027-06-12",
+          "rate": 785.71
+        },
+        {
+          "checkin": "2027-06-12",
+          "checkout": "2027-06-19",
+          "rate": 928.57
+        },
+        {
+          "checkin": "2027-06-19",
+          "checkout": "2027-06-26",
+          "rate": 1000.0
+        },
+        {
+          "checkin": "2027-06-26",
+          "checkout": "2027-07-03",
+          "rate": 1071.42
+        },
+        {
           "checkin": "2027-07-03",
           "checkout": "2027-07-10",
           "rate": 1178.57
@@ -80883,6 +81451,86 @@
           "checkin": "2027-09-04",
           "checkout": "2027-09-11",
           "rate": 785.71
+        },
+        {
+          "checkin": "2027-09-11",
+          "checkout": "2027-09-18",
+          "rate": 714.28
+        },
+        {
+          "checkin": "2027-09-18",
+          "checkout": "2027-09-25",
+          "rate": 571.42
+        },
+        {
+          "checkin": "2027-09-25",
+          "checkout": "2027-10-02",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-10-02",
+          "checkout": "2027-10-09",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-10-09",
+          "checkout": "2027-10-16",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-10-16",
+          "checkout": "2027-10-23",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-10-23",
+          "checkout": "2027-10-30",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-10-30",
+          "checkout": "2027-11-06",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-11-06",
+          "checkout": "2027-11-13",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-11-13",
+          "checkout": "2027-11-20",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-11-20",
+          "checkout": "2027-11-27",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-11-27",
+          "checkout": "2027-12-04",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-12-04",
+          "checkout": "2027-12-11",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-12-11",
+          "checkout": "2027-12-18",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-12-18",
+          "checkout": "2027-12-25",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-12-25",
+          "checkout": "2028-01-01",
+          "rate": 500.0
         }
       ],
       "amenities": [
@@ -81257,24 +81905,24 @@
         }
       ],
       "amenities": [
-        "4 King Bed(s)",
-        "6 Single Bed(s)",
-        "1  Sofa Bed(s)-Queen",
-        "2 Bunk(s)",
-        "2 Trundle(s)",
         "Coffee Maker",
         "Garage",
         "1 Car Garage",
         "Parking",
         "1 Parking Spaces",
-        "Television",
         "2 TVs",
         "Cable TV",
         "BBQ Gas",
-        "No Pets Accepted",
         "Wireless Lan",
+        "4 King Bed(s)",
+        "6 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "2 Bunk(s)",
+        "2 Trundle(s)",
+        "No Pets Accepted",
         "Keurig",
-        "Cable TV (Expanded)"
+        "Cable TV (Expanded)",
+        "Television"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1218/1218112.0.jpg"
     },
@@ -81673,21 +82321,21 @@
         }
       ],
       "amenities": [
+        "No Pets Accepted",
+        "Beach Equipment",
+        "Keurig",
+        "Smart TV",
+        "6# of Smart TVs",
+        "8 # Beach Chairs",
+        "Garage",
+        "Parking",
+        "4 Parking Spaces",
+        "Wireless Lan",
         "2 King Bed(s)",
         "2 Queen Bed(s)",
         "2 Double Bed(s)",
         "1 Bunk(s)",
-        "Coffee Maker",
-        "Garage",
-        "Parking",
-        "4 Parking Spaces",
-        "No Pets Accepted",
-        "Beach Equipment",
-        "Wireless Lan",
-        "Keurig",
-        "Smart TV",
-        "6# of Smart TVs",
-        "8 # Beach Chairs"
+        "Coffee Maker"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1170/1170125.0.jpg"
     },
@@ -81808,18 +82456,18 @@
         }
       ],
       "amenities": [
+        "No Pets Accepted",
+        "Keurig",
+        "Beach Chairs",
+        "1 Parking Spaces",
+        "Wireless Lan",
+        "4 # Beach Chairs",
+        "Smart TV",
+        "1# of Smart TVs",
         "2 Queen Bed(s)",
         "2 Single Bed(s)",
         "1 Bunk(s)",
-        "Coffee Maker",
-        "1 Parking Spaces",
-        "No Pets Accepted",
-        "Wireless Lan",
-        "Keurig",
-        "Beach Chairs",
-        "Smart TV",
-        "1# of Smart TVs",
-        "4 # Beach Chairs"
+        "Coffee Maker"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1202/1202751.0.jpg"
     },
@@ -83771,8 +84419,8 @@
         "BBQ Gas",
         "No Pets Accepted",
         "Wireless Lan",
-        "Smart TV",
-        "2# of Smart TVs"
+        "2# of Smart TVs",
+        "Smart TV"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1160/1160612.0.jpg"
     },
@@ -84586,182 +85234,6 @@
         "4 # of Beach Badges"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161272.0.jpg"
-    },
-    {
-      "ref_id": "1161313",
-      "name": "1229 Central Avenue 1st Floor",
-      "street": "1229 Central Avenue",
-      "type": "Duplex",
-      "floor": "1st",
-      "unit": "",
-      "bedrooms": "4",
-      "baths": "2",
-      "half_baths": "0",
-      "sleeps": "10",
-      "availability": [
-        {
-          "checkin": "2027-06-12",
-          "checkout": "2027-06-19",
-          "status": "Available",
-          "avg_rate": 3200.0
-        },
-        {
-          "checkin": "2027-06-26",
-          "checkout": "2027-07-10",
-          "status": "Available",
-          "avg_rate": 5000.0
-        },
-        {
-          "checkin": "2027-07-24",
-          "checkout": "2027-07-31",
-          "status": "Available",
-          "avg_rate": 5000.0
-        },
-        {
-          "checkin": "2027-08-21",
-          "checkout": "2027-09-25",
-          "status": "Available",
-          "avg_rate": 1920.0
-        }
-      ],
-      "rates": [
-        {
-          "checkin": "2026-08-22",
-          "checkout": "2026-08-29",
-          "rate": 442.85
-        },
-        {
-          "checkin": "2026-08-29",
-          "checkout": "2026-09-05",
-          "rate": 257.14
-        },
-        {
-          "checkin": "2026-09-05",
-          "checkout": "2026-09-12",
-          "rate": 228.57
-        },
-        {
-          "checkin": "2026-09-12",
-          "checkout": "2026-09-19",
-          "rate": 228.57
-        },
-        {
-          "checkin": "2026-09-19",
-          "checkout": "2026-09-26",
-          "rate": 214.28
-        },
-        {
-          "checkin": "2027-05-29",
-          "checkout": "2027-06-05",
-          "rate": 257.14
-        },
-        {
-          "checkin": "2027-06-05",
-          "checkout": "2027-06-12",
-          "rate": 328.57
-        },
-        {
-          "checkin": "2027-06-12",
-          "checkout": "2027-06-19",
-          "rate": 457.14
-        },
-        {
-          "checkin": "2027-06-19",
-          "checkout": "2027-06-26",
-          "rate": 528.57
-        },
-        {
-          "checkin": "2027-06-26",
-          "checkout": "2027-07-03",
-          "rate": 714.28
-        },
-        {
-          "checkin": "2027-07-03",
-          "checkout": "2027-07-10",
-          "rate": 714.28
-        },
-        {
-          "checkin": "2027-07-10",
-          "checkout": "2027-07-17",
-          "rate": 714.28
-        },
-        {
-          "checkin": "2027-07-17",
-          "checkout": "2027-07-24",
-          "rate": 714.28
-        },
-        {
-          "checkin": "2027-07-24",
-          "checkout": "2027-07-31",
-          "rate": 714.28
-        },
-        {
-          "checkin": "2027-07-31",
-          "checkout": "2027-08-07",
-          "rate": 714.28
-        },
-        {
-          "checkin": "2027-08-07",
-          "checkout": "2027-08-14",
-          "rate": 714.28
-        },
-        {
-          "checkin": "2027-08-14",
-          "checkout": "2027-08-21",
-          "rate": 585.71
-        },
-        {
-          "checkin": "2027-08-21",
-          "checkout": "2027-08-28",
-          "rate": 442.85
-        },
-        {
-          "checkin": "2027-08-28",
-          "checkout": "2027-09-04",
-          "rate": 257.14
-        },
-        {
-          "checkin": "2027-09-04",
-          "checkout": "2027-09-11",
-          "rate": 228.57
-        },
-        {
-          "checkin": "2027-09-11",
-          "checkout": "2027-09-18",
-          "rate": 228.57
-        },
-        {
-          "checkin": "2027-09-18",
-          "checkout": "2027-09-25",
-          "rate": 214.28
-        }
-      ],
-      "amenities": [
-        "1 King Bed(s)",
-        "2 Queen Bed(s)",
-        "2 Double Bed(s)",
-        "1 Single Bed(s)",
-        "1  Sofa Bed(s)-Queen",
-        "1 Futon(s)",
-        "1 Pyramid Bed(s)",
-        "Coffee Maker",
-        "Garage",
-        "Parking",
-        "2 Parking Spaces",
-        "Television",
-        "5 TVs",
-        "Cable TV",
-        "No Pets Accepted",
-        "Beach Equipment",
-        "Wireless Lan",
-        "Keurig",
-        "Beach Chairs",
-        "Beach Umbrella",
-        "Smart TV",
-        "1 Pyramid Bed(s)-Full",
-        "4 # Beach Chairs"
-      ],
-      "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1161/1161313.0.jpg"
     },
     {
       "ref_id": "1161320",
@@ -94924,10 +95396,10 @@
           "avg_rate": 2837.83
         },
         {
-          "checkin": "2027-08-07",
+          "checkin": "2027-08-14",
           "checkout": "2028-01-01",
           "status": "Available",
-          "avg_rate": 3019.04
+          "avg_rate": 2800.0
         }
       ],
       "rates": [
@@ -95780,9 +96252,15 @@
         },
         {
           "checkin": "2027-07-24",
+          "checkout": "2027-08-07",
+          "status": "Available",
+          "avg_rate": 9999.0
+        },
+        {
+          "checkin": "2027-08-14",
           "checkout": "2027-09-11",
           "status": "Available",
-          "avg_rate": 8142.28
+          "avg_rate": 6749.75
         },
         {
           "checkin": "2027-09-18",
@@ -97517,10 +97995,10 @@
       "sleeps": "8",
       "availability": [
         {
-          "checkin": "2027-06-12",
+          "checkin": "2027-06-19",
           "checkout": "2027-06-26",
           "status": "Available",
-          "avg_rate": 6600.0
+          "avg_rate": 7600.0
         },
         {
           "checkin": "2027-07-10",
@@ -100143,13 +100621,24 @@
       "sleeps": "8",
       "availability": [
         {
+          "checkin": "2027-06-05",
+          "checkout": "2027-06-12",
+          "status": "Available",
+          "avg_rate": 3500.0
+        },
+        {
           "checkin": "2027-07-03",
-          "checkout": "2027-07-17",
+          "checkout": "2027-07-10",
           "status": "Available",
           "avg_rate": 5500.0
         }
       ],
       "rates": [
+        {
+          "checkin": "2027-06-05",
+          "checkout": "2027-06-12",
+          "rate": 500.0
+        },
         {
           "checkin": "2027-06-12",
           "checkout": "2027-06-19",
@@ -100242,10 +100731,10 @@
           "avg_rate": 8095.0
         },
         {
-          "checkin": "2027-07-31",
+          "checkin": "2027-08-07",
           "checkout": "2028-01-01",
           "status": "Available",
-          "avg_rate": 3322.04
+          "avg_rate": 3094.76
         }
       ],
       "rates": [
@@ -102423,9 +102912,9 @@
         },
         {
           "checkin": "2027-06-19",
-          "checkout": "2027-07-31",
+          "checkout": "2027-07-24",
           "status": "Available",
-          "avg_rate": 10958.33
+          "avg_rate": 10900.0
         },
         {
           "checkin": "2027-08-14",
@@ -102980,9 +103469,9 @@
         },
         {
           "checkin": "2027-04-17",
-          "checkout": "2027-05-15",
+          "checkout": "2027-05-29",
           "status": "Available",
-          "avg_rate": 1000.0
+          "avg_rate": 1066.66
         },
         {
           "checkin": "2027-06-12",
@@ -105839,7 +106328,7 @@
         {
           "checkin": "2026-08-29",
           "checkout": "2026-09-05",
-          "rate": 607.14
+          "rate": 350.0
         },
         {
           "checkin": "2026-09-05",
@@ -106178,7 +106667,7 @@
           "checkin": "2026-08-29",
           "checkout": "2026-09-05",
           "status": "Available",
-          "avg_rate": 2950.0
+          "avg_rate": 2450.0
         },
         {
           "checkin": "2026-09-19",
@@ -106208,7 +106697,7 @@
         {
           "checkin": "2026-08-29",
           "checkout": "2026-09-05",
-          "rate": 421.42
+          "rate": 350.0
         },
         {
           "checkin": "2026-09-05",
@@ -106405,9 +106894,9 @@
         },
         {
           "checkin": "2026-10-17",
-          "checkout": "2027-01-02",
+          "checkout": "2027-04-24",
           "status": "Available",
-          "avg_rate": 495.0
+          "avg_rate": 955.58
         }
       ],
       "rates": [
@@ -106510,6 +106999,11 @@
           "checkin": "2027-08-07",
           "checkout": "2027-08-14",
           "rate": 364.28
+        },
+        {
+          "checkin": "2026-11-01",
+          "checkout": "2027-05-01",
+          "rate": 60.0
         }
       ],
       "amenities": [
@@ -108948,7 +109442,7 @@
           "checkin": "2026-08-29",
           "checkout": "2026-09-05",
           "status": "Available",
-          "avg_rate": 3250.0
+          "avg_rate": 2950.0
         },
         {
           "checkin": "2026-09-14",
@@ -109002,7 +109496,7 @@
         {
           "checkin": "2026-08-29",
           "checkout": "2026-09-05",
-          "rate": 464.28
+          "rate": 421.42
         },
         {
           "checkin": "2026-09-05",
@@ -109200,10 +109694,10 @@
           "avg_rate": 2800.0
         },
         {
-          "checkin": "2027-07-03",
-          "checkout": "2027-09-18",
+          "checkin": "2027-06-19",
+          "checkout": "2027-10-09",
           "status": "Available",
-          "avg_rate": 3490.9
+          "avg_rate": 3212.5
         }
       ],
       "rates": [
@@ -109216,6 +109710,16 @@
           "checkin": "2026-08-29",
           "checkout": "2026-09-05",
           "rate": 400.0
+        },
+        {
+          "checkin": "2027-06-19",
+          "checkout": "2027-06-26",
+          "rate": 400.0
+        },
+        {
+          "checkin": "2027-06-26",
+          "checkout": "2027-07-03",
+          "rate": 428.57
         },
         {
           "checkin": "2027-07-03",
@@ -109271,6 +109775,21 @@
           "checkin": "2027-09-11",
           "checkout": "2027-09-18",
           "rate": 457.14
+        },
+        {
+          "checkin": "2027-09-18",
+          "checkout": "2027-09-25",
+          "rate": 371.42
+        },
+        {
+          "checkin": "2027-09-25",
+          "checkout": "2027-10-02",
+          "rate": 342.85
+        },
+        {
+          "checkin": "2027-10-02",
+          "checkout": "2027-10-09",
+          "rate": 314.28
         }
       ],
       "amenities": [
@@ -111697,8 +112216,8 @@
         "1 Pyramid Bed(s)",
         "Coffee Maker",
         "Garage",
+        "2 Car Garage",
         "Parking",
-        "2 Parking Spaces",
         "Television",
         "2 TVs",
         "No Pets Accepted",
@@ -112350,6 +112869,16 @@
           "checkin": "2026-09-05",
           "checkout": "2026-09-12",
           "rate": 400.0
+        },
+        {
+          "checkin": "2027-07-10",
+          "checkout": "2027-07-17",
+          "rate": 414.28
+        },
+        {
+          "checkin": "2027-07-17",
+          "checkout": "2027-07-24",
+          "rate": 414.28
         }
       ],
       "amenities": [
@@ -119007,21 +119536,21 @@
         }
       ],
       "amenities": [
-        "1 King Bed(s)",
-        "3 Queen Bed(s)",
         "2 Single Bed(s)",
+        "Coffee Maker",
+        "Keurig",
+        "No Pets Accepted",
         "1  Sofa Bed(s)-Queen",
         "1 Bunk(s)",
-        "Coffee Maker",
+        "1 King Bed(s)",
+        "3 Queen Bed(s)",
         "Garage",
         "Parking",
         "2 Parking Spaces",
         "Television",
         "4 TVs",
         "Cable TV",
-        "No Pets Accepted",
-        "Wireless Lan",
-        "Keurig"
+        "Wireless Lan"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1168/1168950.0.jpg"
     },
@@ -119292,12 +119821,12 @@
         }
       ],
       "amenities": [
-        "1 King Bed(s)",
-        "1 Queen Bed(s)",
-        "1 Double Bed(s)",
-        "1 Single Bed(s)",
-        "1 Pyramid Bed(s)",
-        "Coffee Maker",
+        "Pets Accepted",
+        "Pets Considered",
+        "Keurig",
+        "Wireless Lan",
+        "BBQ Charcoal",
+        "BBQ Gas",
         "Garage",
         "1 Car Garage",
         "Parking",
@@ -119305,12 +119834,12 @@
         "Television",
         "2 TVs",
         "Cable TV",
-        "BBQ Charcoal",
-        "BBQ Gas",
-        "Pets Accepted",
-        "Wireless Lan",
-        "Pets Considered",
-        "Keurig",
+        "1 King Bed(s)",
+        "1 Queen Bed(s)",
+        "1 Double Bed(s)",
+        "1 Single Bed(s)",
+        "1 Pyramid Bed(s)",
+        "Coffee Maker",
         "Smart TV",
         "1# of Smart TVs",
         "1 Pyramid Bed(s)-Full"
@@ -119477,17 +120006,17 @@
         }
       ],
       "amenities": [
-        "1 King Bed(s)",
-        "1 Queen Bed(s)",
-        "5 Single Bed(s)",
         "Garage",
         "Parking",
-        "5 Parking Spaces",
-        "Television",
         "5 TVs",
         "Cable TV",
         "No Pets Accepted",
-        "Wireless Lan"
+        "Wireless Lan",
+        "5 Parking Spaces",
+        "Television",
+        "1 King Bed(s)",
+        "1 Queen Bed(s)",
+        "5 Single Bed(s)"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1169/1169180.0.jpg"
     },
@@ -119610,8 +120139,8 @@
         "No Pets Accepted",
         "Beach Badges",
         "Wireless Lan",
-        "6 # of Beach Badges",
-        "1 Pyramid Bed(s)-Full"
+        "1 Pyramid Bed(s)-Full",
+        "6 # of Beach Badges"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1169/1169314.0.jpg"
     },
@@ -120016,6 +120545,10 @@
         }
       ],
       "amenities": [
+        "4 # Beach Chairs",
+        "4 # of Beach Badges",
+        "Beach Badges",
+        "Wireless Lan",
         "1 King Bed(s)",
         "2 Queen Bed(s)",
         "1 Sofa Bed(s)-Double",
@@ -120028,12 +120561,8 @@
         "Cable TV",
         "No Pets Accepted",
         "Beach Equipment",
-        "Beach Badges",
-        "Wireless Lan",
         "Keurig",
-        "4 # of Beach Badges",
-        "Beach Chairs",
-        "4 # Beach Chairs"
+        "Beach Chairs"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1169/1169315.0.jpg"
     },
@@ -120600,6 +121129,26 @@
           "checkin": "2026-10-10",
           "checkout": "2026-10-17",
           "rate": 357.14
+        },
+        {
+          "checkin": "2027-07-24",
+          "checkout": "2027-07-31",
+          "rate": 928.57
+        },
+        {
+          "checkin": "2027-07-31",
+          "checkout": "2027-08-07",
+          "rate": 928.57
+        },
+        {
+          "checkin": "2027-08-07",
+          "checkout": "2027-08-14",
+          "rate": 928.57
+        },
+        {
+          "checkin": "2027-08-14",
+          "checkout": "2027-08-21",
+          "rate": 928.57
         }
       ],
       "amenities": [
@@ -120669,10 +121218,6 @@
       "availability": [],
       "rates": [],
       "amenities": [
-        "2 King Bed(s)",
-        "2 Queen Bed(s)",
-        "1 Single Bed(s)",
-        "1  Sofa Bed(s)-Queen",
         "1 Futon(s)",
         "Coffee Maker",
         "Parking",
@@ -120681,7 +121226,11 @@
         "6 TVs",
         "Cable TV",
         "No Pets Accepted",
-        "Wireless Lan"
+        "1 Single Bed(s)",
+        "1  Sofa Bed(s)-Queen",
+        "Wireless Lan",
+        "2 King Bed(s)",
+        "2 Queen Bed(s)"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1169/1169959.0.jpg"
     },
@@ -120894,9 +121443,15 @@
         }
       ],
       "amenities": [
-        "1 King Bed(s)",
-        "2 Queen Bed(s)",
+        "Smart TV",
+        "4# of Smart TVs",
+        "1 Pyramid Bed(s)-Full",
+        "8 # of Beach Badges",
         "1 Double Bed(s)",
+        "No Pets Accepted",
+        "Beach Badges",
+        "Wireless Lan",
+        "Keurig",
         "2 Single Bed(s)",
         "1 Trundle(s)",
         "Coffee Maker",
@@ -120906,14 +121461,8 @@
         "Television",
         "1 TVs",
         "Cable TV",
-        "No Pets Accepted",
-        "Beach Badges",
-        "Wireless Lan",
-        "Keurig",
-        "8 # of Beach Badges",
-        "Smart TV",
-        "4# of Smart TVs",
-        "1 Pyramid Bed(s)-Full"
+        "1 King Bed(s)",
+        "2 Queen Bed(s)"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1170/1170046.0.jpg"
     },
@@ -120982,23 +121531,23 @@
         "1 Rollaway(s)",
         "1 Futon(s)",
         "Coffee Maker",
+        "Beach Chairs",
+        "Beach Umbrella",
+        "8 # of Beach Badges",
+        "6 # Beach Chairs",
+        "No Pets Accepted",
+        "Beach Equipment",
+        "Beach Badges",
+        "Wireless Lan",
         "Parking",
         "6 Parking Spaces",
         "Television",
         "5 TVs",
         "Cable TV",
         "BBQ Charcoal",
-        "No Pets Accepted",
-        "Beach Equipment",
-        "Beach Badges",
-        "Wireless Lan",
         "Keurig",
         "TV Streaming Device",
-        "Cable TV (Expanded)",
-        "8 # of Beach Badges",
-        "Beach Chairs",
-        "Beach Umbrella",
-        "6 # Beach Chairs"
+        "Cable TV (Expanded)"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1170/1170358.0.jpg"
     },
@@ -121152,8 +121701,8 @@
         }
       ],
       "amenities": [
-        "2 Double Bed(s)",
-        "No Pets Accepted"
+        "No Pets Accepted",
+        "2 Double Bed(s)"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1171/1171924.0.jpg"
     },
@@ -121199,6 +121748,14 @@
         }
       ],
       "amenities": [
+        "6 # of Beach Badges",
+        "Beach Badges",
+        "Parking",
+        "2 Parking Spaces",
+        "Television",
+        "4 TVs",
+        "Wireless Lan",
+        "Cable TV",
         "1 King Bed(s)",
         "1 Queen Bed(s)",
         "1 Double Bed(s)",
@@ -121206,16 +121763,8 @@
         "1 Sofa Bed(s)-Double",
         "1 Bunk(s)",
         "1 Pyramid Bed(s)",
-        "Parking",
-        "2 Parking Spaces",
-        "Television",
-        "4 TVs",
-        "Cable TV",
         "No Pets Accepted",
-        "Beach Badges",
-        "Wireless Lan",
-        "Keurig",
-        "6 # of Beach Badges"
+        "Keurig"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1172/1172043.0.jpg"
     },
@@ -123407,9 +123956,15 @@
         },
         {
           "checkin": "2027-01-02",
+          "checkout": "2027-06-05",
+          "status": "Available",
+          "avg_rate": 3603.81
+        },
+        {
+          "checkin": "2027-06-12",
           "checkout": "2027-06-19",
           "status": "Available",
-          "avg_rate": 3804.58
+          "avg_rate": 6545.0
         },
         {
           "checkin": "2027-06-26",
@@ -125264,7 +125819,7 @@
         },
         {
           "checkin": "2027-06-26",
-          "checkout": "2027-07-17",
+          "checkout": "2027-07-10",
           "status": "Available",
           "avg_rate": 9250.0
         },
@@ -128488,29 +129043,29 @@
         }
       ],
       "amenities": [
+        "Keurig",
+        "StreamingServices",
+        "Pets Considered",
+        "4 # Beach Chairs",
+        "Beach Chairs",
+        "Beach Umbrella",
+        "Smart TV",
+        "2# of Smart TVs",
+        "4 # of Beach Badges",
+        "Beach Badges",
+        "Wireless Lan",
+        "Parking",
+        "2 Parking Spaces",
+        "BBQ Gas",
+        "Loft",
+        "Beach Equipment",
         "2 King Bed(s)",
         "2 Queen Bed(s)",
         "4 Single Bed(s)",
         "1 Bunk(s)",
         "1 Trundle(s)",
         "Coffee Maker",
-        "Garage",
-        "Parking",
-        "2 Parking Spaces",
-        "BBQ Gas",
-        "Loft",
-        "Beach Equipment",
-        "Beach Badges",
-        "Wireless Lan",
-        "Pets Considered",
-        "Keurig",
-        "4 # of Beach Badges",
-        "Beach Chairs",
-        "Beach Umbrella",
-        "Smart TV",
-        "2# of Smart TVs",
-        "StreamingServices",
-        "4 # Beach Chairs"
+        "Garage"
       ],
       "thumbnail": "https://realtimerental.com/rrv10/RentalPhotos/1189/1189234.0.jpg"
     },
@@ -131609,8 +132164,8 @@
       "name": "803 1st Street Single",
       "street": "803 1st Street",
       "type": "House",
-      "floor": "Single",
-      "unit": "",
+      "floor": "",
+      "unit": "Single",
       "bedrooms": "3",
       "baths": "2",
       "half_baths": "1",
@@ -131621,6 +132176,24 @@
           "checkout": "2026-09-05",
           "status": "Available",
           "avg_rate": 4833.33
+        },
+        {
+          "checkin": "2027-05-22",
+          "checkout": "2027-06-26",
+          "status": "Available",
+          "avg_rate": 4200.0
+        },
+        {
+          "checkin": "2027-07-10",
+          "checkout": "2027-07-31",
+          "status": "Available",
+          "avg_rate": 6000.0
+        },
+        {
+          "checkin": "2027-08-07",
+          "checkout": "2027-09-04",
+          "status": "Available",
+          "avg_rate": 5125.0
         }
       ],
       "rates": [
@@ -131635,9 +132208,79 @@
           "rate": 571.42
         },
         {
+          "checkin": "2027-05-22",
+          "checkout": "2027-05-29",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-05-29",
+          "checkout": "2027-06-05",
+          "rate": 500.0
+        },
+        {
+          "checkin": "2027-06-05",
+          "checkout": "2027-06-12",
+          "rate": 571.42
+        },
+        {
+          "checkin": "2027-06-12",
+          "checkout": "2027-06-19",
+          "rate": 642.85
+        },
+        {
+          "checkin": "2027-06-19",
+          "checkout": "2027-06-26",
+          "rate": 785.71
+        },
+        {
+          "checkin": "2027-06-26",
+          "checkout": "2027-07-03",
+          "rate": 857.14
+        },
+        {
+          "checkin": "2027-07-03",
+          "checkout": "2027-07-10",
+          "rate": 857.14
+        },
+        {
+          "checkin": "2027-07-10",
+          "checkout": "2027-07-17",
+          "rate": 857.14
+        },
+        {
+          "checkin": "2027-07-17",
+          "checkout": "2027-07-24",
+          "rate": 857.14
+        },
+        {
+          "checkin": "2027-07-24",
+          "checkout": "2027-07-31",
+          "rate": 857.14
+        },
+        {
           "checkin": "2027-07-31",
           "checkout": "2027-08-07",
           "rate": 857.14
+        },
+        {
+          "checkin": "2027-08-07",
+          "checkout": "2027-08-14",
+          "rate": 857.14
+        },
+        {
+          "checkin": "2027-08-14",
+          "checkout": "2027-08-21",
+          "rate": 785.71
+        },
+        {
+          "checkin": "2027-08-21",
+          "checkout": "2027-08-28",
+          "rate": 714.28
+        },
+        {
+          "checkin": "2027-08-28",
+          "checkout": "2027-09-04",
+          "rate": 571.42
         }
       ],
       "amenities": [
@@ -136648,7 +137291,7 @@
           "avg_rate": 4600.0
         },
         {
-          "checkin": "2027-07-17",
+          "checkin": "2027-07-24",
           "checkout": "2027-07-31",
           "status": "Available",
           "avg_rate": 4600.0
@@ -137279,6 +137922,7 @@
       "amenities": [
         "1 King Bed(s)",
         "1 Queen Bed(s)",
+        "1 Double Bed(s)",
         "4 Single Bed(s)",
         "Coffee Maker",
         "Garage",
@@ -137837,9 +138481,15 @@
         },
         {
           "checkin": "2026-09-19",
+          "checkout": "2026-10-03",
+          "status": "Available",
+          "avg_rate": 1500.0
+        },
+        {
+          "checkin": "2026-10-10",
           "checkout": "2026-10-17",
           "status": "Available",
-          "avg_rate": 1450.0
+          "avg_rate": 1400.0
         },
         {
           "checkin": "2026-10-21",
@@ -141520,10 +142170,10 @@
           "avg_rate": 5250.0
         },
         {
-          "checkin": "2027-08-07",
+          "checkin": "2027-08-14",
           "checkout": "2027-08-21",
           "status": "Available",
-          "avg_rate": 4875.0
+          "avg_rate": 4500.0
         }
       ],
       "rates": [
@@ -147564,12 +148214,6 @@
           "avg_rate": 2650.0
         },
         {
-          "checkin": "2027-08-07",
-          "checkout": "2027-08-14",
-          "status": "Available",
-          "avg_rate": 2650.0
-        },
-        {
           "checkin": "2027-08-21",
           "checkout": "2027-10-16",
           "status": "Available",
@@ -151267,7 +151911,7 @@
       "sleeps": "8",
       "availability": [
         {
-          "checkin": "2026-08-22",
+          "checkin": "2026-08-28",
           "checkout": "2026-08-29",
           "status": "Available",
           "avg_rate": 2000.0
@@ -152951,9 +153595,15 @@
         },
         {
           "checkin": "2027-06-19",
+          "checkout": "2027-07-10",
+          "status": "Available",
+          "avg_rate": 12833.33
+        },
+        {
+          "checkin": "2027-07-17",
           "checkout": "2027-07-24",
           "status": "Available",
-          "avg_rate": 13300.0
+          "avg_rate": 14000.0
         },
         {
           "checkin": "2027-07-31",
